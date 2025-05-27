@@ -9,9 +9,3 @@ https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Bu
 https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz.exe
 https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-x64.exe
 https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-arm64.exe
-
-
-## 0.45.12
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk-x64.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk-arm64.exe
