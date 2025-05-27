@@ -9,7 +9,7 @@ OUTPUT_FILE="new.txt"
 
 # Read data file in blocks
 while IFS= read -r line; do
-    if [[ $line =~ ^## (.*) ]]; then
+    if [[ $line =~ ^## \(.*\) ]]; then
         version="${BASH_REMATCH[1]}"
         echo "## $version" >> "$OUTPUT_FILE"
         urls=()
