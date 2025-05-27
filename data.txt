@@ -1,157 +1,77 @@
-## 0.43.6
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.6%20-%20Build%20241206z7j6me2e2.exe
-sha512:fef50982c494074abe3730c818e5df1f6a36892ac2e526232c0d60ed6787c49d29696ef0edf6d378dc33b5c68903857c0045696248c628ad69266b92326f7ff0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.6%20-%20Build%20241206z7j6me2e2-x64.exe
-sha512:0066a71a9436c6df124c85963f0c01e0a8a74454c7cf5f01c401fe7fbc2efff9990fc07e80abe23ad9a4f5e86e2f4cde89457be1612e6f4e8131b35e5221edd7
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.6%20-%20Build%20241206z7j6me2e2-arm64.exe
-sha512:acbe5adfdae3353eb7feaa3794ae072ef2d96f231810a034c78840c92302898654b02557a417f0b8279da76792979c1915ea13b0258c0cde21875d66e8b98576
-
-## 0.43.5
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.5%20-%20Build%20241127pdg4cnbu2.exe
-sha512:64e4f645f3d34a89847899838b6f0d995b87c616f74959b839d90bd67b0523e8ebd49bce1335ab291ba66f13007d76b51ae49ce7a4c90d89f807a577c9056f04
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.5%20-%20Build%20241127pdg4cnbu2-x64.exe
-sha512:1dede899cdfff62cdcca458d3e41b9846178e45f20c9aa268906aa585ddfca655ff8eeda787d0431bb24e01cf8b9d67b1ff5214bab2aa4750c821a0c8c0aeb47
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.5%20-%20Build%20241127pdg4cnbu2-arm64.exe
-sha512:862a1b301e3deeb32ff4835b5b5df77bbfeeab2482f8d3d1c493c3d220d24e7d1783eb64ede97173a7931ee8e7dd69e98d5d2ce19d8c85dc7d5a1e5eb82d9267
-
-## 0.43.4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.4%20-%20Build%20241126w13goyvrs.exe
-sha512:fa2d218d4f6763bcc1439f6aab5308b825700d7f37d17d4134d639d1acacd96a05ea5e46d7e0f2d4692e9a868f6c1e09497df81f3b6ca15c1900a2773f21fd3b
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.4%20-%20Build%20241126w13goyvrs-x64.exe
-sha512:145f6b557906296f94d2f8786b39cff08fb4b0eeb5ededc19ee47f4473b93213ab7e3bf68f0d15f0673717be5aff8ed0a219a821556b9c7f5988ae70e9b919fe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.4%20-%20Build%20241126w13goyvrs-arm64.exe
-sha512:42c99f55d0c6cc5e022a4eda8206e7a8814804d76d609e6ca0a201866365e6dd8807174be986349005c1e397df72ae746fbf0a987be2a2fda071a407e07a584b
-
-## 0.43.3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.3%20-%20Build%202411246yqzx1jmm.exe
-sha512:5c06c3f0979c93ce3946489a44335de20d9eefbf0765a623885a0849a06407bba1be20977123c166a57ebc23a5a948631dc0e81eab34382771dba893ba004192
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.3%20-%20Build%202411246yqzx1jmm-x64.exe
-sha512:cee4f99f773e4eec189a2babc8b9d74e57ed124642c67e6f520fbf791b4637c746bcfc865e9705ebbfb031a1f12dfb94b4495db799749d24d8829fb9b7987615
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.3%20-%20Build%202411246yqzx1jmm-arm64.exe
-sha512:56eb5de8ee8c28853c4ae179fd7a7b379339705efc478dd6602d4f8ce5900c292c9cea2b029c0759a6d491dbf15bbb56ef3d2d4deded3e184fc07ea5ca2e342e
+## 0.39.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye-arm64.exe
 
 
-## 0.43.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.1%20-%20Build%20241124gsiwb66nc.exe
-sha512:f6094af833d54decff542aca44908a5445c66f9a4b932bc6df8996b28e606ee5496c392d5bd7ae63b1ad0be691c7567bbe432b748e85cd050d801a5edad34f54
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.1%20-%20Build%20241124gsiwb66nc-x64.exe
-sha512:1d3bcc090d0ca05cadc21ccb42dd8167279a71989910b3d97ff0324260d52eb7f055dcd984d3cb743addf526fbe1d37ca586350b815cfe28eaf01c7bf6611ad0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.1%20-%20Build%20241124gsiwb66nc-arm64.exe
-sha512:ff11cacfc7ae096c08315249e37167c524e0f464434e01a010724fbafd7d0f7673a14a68755cc1a345246a47940b4100db23b388fdf762572ecf6f0b4b7fa202
+## 0.39.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h-arm64.exe
 
-## 0.43.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.0%20-%20Build%2024112423a8e6ct7.exe
-sha512:2f9e5d92fd9b511044df11dee8a23b6e7047b049359ed417f3adfbf6a5e63bb27344087d5c63c9ee97a4e33e0819766fc71af3de31569fe6b2eb65a972a0bae3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.0%20-%20Build%2024112423a8e6ct7-x64.exe
-sha512:f971a0099d2677db4745b8dc3537c3e0727f90ec43f19e786b0e588d42499839de9df85f04643862d7891ba07e2ed97af11ae787dd53afa96739f360e9ba3f55
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.43.0%20-%20Build%2024112423a8e6ct7-arm64.exe
-sha512:d39a486ca19d885aa2de3146637950c432c8180e16af461429672a71e97f72c0d48befbcf1322c3ef1e1d84cd5499b5c4c59971b2f6daf861b4ef493c7717e5e
-## 0.42.5
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.5%20-%20Build%2024111460bf2loz1.exe
-sha512:4cde9aa50e9d4edd22f8bcb599d63a4f3541cf0b06f564303c2005513139121205bd953c5b4569ba144884b56e3034973da7f7841380d39bb4b01a815c395075
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.5%20-%20Build%2024111460bf2loz1-x64.exe
-sha512:4af6148b2fd4ab18e49bbc041176ce260841370d62d0dd6f713fb2964202a9fadc9edd0f5e6fc300fb88669f73c1a7a03106d83adf26aea3a3871e8c9e2f3be4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.5%20-%20Build%2024111460bf2loz1-arm64.exe
-sha512:07a15678a9c888c5509e8df97813be2e23ea14f3ab33019d208e84b51aa0d567204ec6774b9f4350d08145c8d8927b298afc4f526e1ed22c9acb2296f93484b0
 
-## 0.42.4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.4%20-%20Build%202410291z3bdg1dy.exe
-sha512:c8f1edcd9071be0b62199b5ead9e060760b77cf60eccf514291ffe6b11feefde80f5768869be1f2196a8614bb6f1d260c67bf83eb7db9cbcae0f9e99c30831ca
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.4%20-%20Build%202410291z3bdg1dy-x64.exe
-sha512:0949d326069950e416dcd2d0448a2a4b325817734e2abf86e790585c8f560438ee11040254c06e513be64df14f3e94a37ae08f09b00a53dce420a55e860f4b93
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.4%20-%20Build%202410291z3bdg1dy-arm64.exe
-sha512:3ea89492b279225af2d20bd187caf31bb057eb421e5144a2885879c01a33591a78e481af377832b0473f55537950df9959f5f0402fbe39345bf66a7cc594ab8b
+## 0.39.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq-arm64.exe
 
-## 0.42.3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.3%20-%20Build%20241016kxu9umuir.exe
-sha512:626bb652b21cc507c56a1b95dae410d083acc4d5aa5f83338f6b676bfd73fdb0087e6d5a39b88dd6e32800d9048e9c3dbfaa181b0ec6bc9f5aaaea6ddad21440
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.3%20-%20Build%20241016kxu9umuir-x64.exe
-sha512:1a0df548c0d133b666737d42491ce1ea74e4b4380621a42abd4a278032344a839f668878e3f07190d8f744d7208209166dfa0b5e17444f7de72e72a13437b4ab
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.3%20-%20Build%20241016kxu9umuir-arm64.exe
-sha512:409a9a6b37e17d73eaf30cb1876cc9b27f6fb098bb17881011a3afdcf259991c5efda4691dd23d97ca851a811080f0617fb6e69cb55e618f2a98caa92bfe1098
 
-## 0.42.2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.2%20-%20Build%202410127mj66lvaq.exe
-sha512:3632199772a17db3c79cd6b3f8eb329d502cb03cb5b7a7d3ff11f814c58f2c0a0a816eee79a07b4139d8e1f346ce47a9bd0d1fc332713426ceffd7c7d707b7b4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.2%20-%20Build%202410127mj66lvaq-x64.exe
-sha512:5128e8c98ed1af544691681b26bf09464134393250bcfdab962270e804298e41198746e8d7cd62831085b4d3e550d7d9c253b0428f9af1ffef39b10aa45a82b3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.2%20-%20Build%202410127mj66lvaq-arm64.exe
-sha512:402b3b917b3c8dd777f5c1ef45d2c926ee0a70260e7cc9ba9b610e95c7e96239760305865697ad34effeba6d3a73aedbe0068b0a06045763fa5d2a2996d8efd1
+## 0.39.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m-arm64.exe
 
-## 0.42.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.1%20-%20Build%20241011i66p9fuvm.exe
-sha512:5c87d1397b2e380c86c084f167df530bc135ef8c95c71fdb1b14fe4945ff72c2ff1c753ca07aec0a22901cff764d1be9e0d47883ec73becb77b93a575be8b35a
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.1%20-%20Build%20241011i66p9fuvm-x64.exe
-sha512:006f47c3b9f7d5695f5c8ff3a8aa9d63d5deb15bc59e05fb78d8a6f644d84a7d924381e8ad1091030f87a503aa517af260440c95c7d47b5e8ae358878d1e4a7f
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.1%20-%20Build%20241011i66p9fuvm-arm64.exe
-sha512:381827e2a39359844584b0edf1ca0662bd1ac26e4a8c9ea267926ff71f9d612fac511e23c801fa4bcfb23bf04f8d273ef10627a9103888079c1cb871ce33b38a
 
-## 0.42.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.0%20-%20Build%20241009fij7nohn5.exe
-sha512:3883e61955e8514712b13959fb5ff8fd09e39da1375ef39ee83e8fa14590da487e297c7e57915ff4c8f42f2c98a3279eaf43da2fd7d863f99102d2e5566fe6f1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.0%20-%20Build%20241009fij7nohn5-x64.exe
-sha512:92c28c708c04ef7ee8aaf245ff9fb59cdfcc792863ee4d8bc331311da0cdf95e9ae753f990a3bf2750691b8b7b1bd461f07c7f315c022063495ca439082b1ec4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.42.0%20-%20Build%20241009fij7nohn5-arm64.exe
-sha512:7aa5fdbf0bbb5b77a138f0e7e19f90d5cc32febfa24c24166a5e80c0a2b011027d69f46fd054e1423c46d56eeef5abc220fb34c1799e83877c5e95305496c9b7
-## 0.41.3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.3%20-%20Build%20240925fkhcqg263.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.3%20-%20Build%20240925fkhcqg263-x64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.3%20-%20Build%20240925fkhcqg263-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
+## 0.39.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r-arm64.exe
 
-## 0.41.2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.2%20-%20Build%20240921llnho65ov.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.2%20-%20Build%20240921llnho65ov-x64.exe
-sha512:2888cd85cfb7dff809c0973565259b663fc2487d276a3dce1fb09506ef07f4b5ac2941109fa2bc61b31b302ae6c61d94ba3075b778fa25d3eabe8f082c1af05a
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.2%20-%20Build%20240921llnho65ov-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
 
-## 0.41.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.1%20-%20Build%202409189xe3envg5.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.1%20-%20Build%202409189xe3envg5-x64.exe
-sha512:6a5a4ba70679cc36313c63afa7fe7ab5ab557b1346aa9962c4d0b2f7599b62e187cac1356a468aa45f5e5ce8f8fd649da1ea7895845b98b116ce793392c83417
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.41.1%20-%20Build%202409189xe3envg5-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-## 0.40.4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.4%20-%20Build%202409052yfcjagw2.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.4%20-%20Build%202409052yfcjagw2-x64.exe
-sha512:287031ef583202dfb0c4dab91caa782d8ece7832a11d608e4a8ecfb9964f05e08a00606272047dc00d2e130619c7c673d253dc27631f623eb288e47a84b44d5e
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.4%20-%20Build%202409052yfcjagw2-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
+## 0.39.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly-arm64.exe
 
-## 0.40.3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.3%20-%20Build%20240829epqamqp7h.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.3%20-%20Build%20240829epqamqp7h-x64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.3%20-%20Build%20240829epqamqp7h-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
 
-## 0.40.2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.2%20-%20Build%20240828c021k3aib.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.2%20-%20Build%20240828c021k3aib-x64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.2%20-%20Build%20240828c021k3aib-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
+## 0.39.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6-arm64.exe
 
-## 0.40.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.1%20-%20Build%202408245thnycuzj.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.1%20-%20Build%202408245thnycuzj-x64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.1%20-%20Build%202408245thnycuzj-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
 
-## 0.40.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.0%20-%20Build%2024082202sreugb2.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.0%20-%20Build%2024082202sreugb2-x64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.40.0%20-%20Build%2024082202sreugb2-arm64.exe
-sha512:47c8bbe49c7360fb60140684461e34bec22eb75b097f92030acbd5dff59576370d83f5a1f9ec3d31f16ecf6879cf8d998fcf73505735e9599c45f5c572b932b2
+## 0.38.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7-arm64.exe
+
+
+## 0.38.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2-arm64.exe
+
+
+## 0.37.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k-arm64.exe
+
+
+## 0.36.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby-arm64.exe
+
+
+## 0.36.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft-arm64.exe
+
+
+## 0.36.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa-arm64.exe
+
