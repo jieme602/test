@@ -1,104 +1,150 @@
-## 0.39.6
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye-x64.exe
-sha512:9031bcc833468616bf07d5d40ca67454ed265f2978c1c6fe80a3477037309aaa57627ddb7196e592e288b406fbadd798be2954dc87347720053d670631430ac8
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.6%20-%20Build%20240819ih4ta2fye-arm64.exe
+## 0.50.7
+https://downloads.cursor.com/production/02270c8441bdc4b2fdbc30e6f470a589ec78d60d/win32/x64/user-setup/CursorUserSetup-x64-0.50.7.exe
+sha256:2555101ef4e8581976bfd64a0abb7b9de01f99e100ba5dc3d15acb06cafad44a
+https://downloads.cursor.com/production/02270c8441bdc4b2fdbc30e6f470a589ec78d60d/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.7.exe
+sha256:02cd1d77845038e19f8e1fd95a5112468fb807fda18f5cb32fcd673f7f82da92
 
-## 0.39.5
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h-x64.exe
-sha512:0b407f4af66915b1ff813dc68f0a0b554ea441b208af1089eb12cd2ba9884b5dd0ea51603d2578e8c1d26370d5d2b4e153c9f575a4b831c6dd71a4ffd9a38d98
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.5%20-%20Build%20240814y9rhzmu7h-arm64.exe
+## 0.50.6
+https://downloads.cursor.com/production/f3f2ad556456ff2df80332923bb1e2a818110d1b/win32/x64/user-setup/CursorUserSetup-x64-0.50.6.exe
+sha256:c5317aa6e1b83f5af2f2df4fdfdb217fe2fc9f5cdc8c332df4f8f030e881ed08
+https://downloads.cursor.com/production/f3f2ad556456ff2df80332923bb1e2a818110d1b/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.6.exe
+sha256:b7597a79846f9d2d9a4647094fee449ec2c21ae5a7e92b5e615feb02abb9a594
 
-## 0.39.4
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq-x64.exe
-sha512:6a3e947a2dd0c69c549ef330039154ca3802354c7ee905bed40635803018b50215f070b2246ff838c824f9e03604b80f5096c0dfc3574fd7609d609094ba2b31
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.4%20-%20Build%20240810elmeg3seq-arm64.exe
+## 0.50.5
+https://downloads.cursor.com/production/96e5b01ca25f8fbd4c4c10bc69b15f6228c80771/win32/x64/user-setup/CursorUserSetup-x64-0.50.5.exe
+sha256:e528174a4cf1a50ed779be530cc4649ffe4522496c179eab91436ee93c09fb87
+https://downloads.cursor.com/production/96e5b01ca25f8fbd4c4c10bc69b15f6228c80771/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.5.exe
+sha256:71a64e33d49eb4f536cae38ea8753dec8fc540e7355fb04249e658edf26c32fa
 
-## 0.39.3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m-x64.exe
-sha512:b4cf0f04cf8148c3fc44874ced0cfe60980af0af8d413864295aa7fd9ea70ddeb270c3e155c59e0f04aa17bfae64ae5eb474ba88637a438f171b1e1371353892
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.3%20-%20Build%202408092hoyaxt9m-arm64.exe
+## 0.50.4
+https://downloads.cursor.com/production/8ea935e79a50a02da912a034bbeda84a6d3d355d/win32/x64/user-setup/CursorUserSetup-x64-0.50.4.exe
+sha256:2af6052d224be74d1c778e961bc5074c9eaa6b415370f78d4d1b789e48af135f
+https://downloads.cursor.com/production/8ea935e79a50a02da912a034bbeda84a6d3d355d/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.4.exe
+sha256:6013e8fb40cd8bdbd8d48b2defe58100fee091b381486fc3b305ab5976889ecb
 
-## 0.39.2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r-x64.exe
-sha512:34a1194ab04d2cdff73322cad999e0bf050abc30f6071396605f73ace97ee8084b09d4dac5743a785262c77213c80782bb444f8f55166527141f79500e54cd1e
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.2%20-%20Build%20240808phaxh4b5r-arm64.exe
+## 0.50.3
+https://downloads.cursor.com/production/7ae22cf8cd5af9e08b62585dd03d10f5f610acf9/win32/x64/user-setup/CursorUserSetup-x64-0.50.3.exe
+sha256:f39a9fb6e78108ad88a758c699fa64a3a13edb3d0f02aaad7583ab443151aa4d
+https://downloads.cursor.com/production/7ae22cf8cd5af9e08b62585dd03d10f5f610acf9/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.3.exe
+sha256:6862bf36d4da47b782826315e42b41b543d4b0656538d381ca855782b4e8432c
 
-## 0.39.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly-x64.exe
-sha512:50865cb4fc988d00d2a6078995276d08f6775b7818bb0ec11316998e0ea576bc1a775c2d0b4cf065ef06604d96e3e64ec986a8f06f7147b8209709c2fc2908f3
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.1%20-%20Build%20240807g919tr4ly-arm64.exe
+## 0.50.2
+https://downloads.cursor.com/production/fc3e38722d374aeba23729a31220a4f0662e3c9b/win32/x64/user-setup/CursorUserSetup-x64-0.50.2.exe
+sha256:0a0101c3180e1b18248de9e3db54e956fb3154df29dae91f344ca73b411aa2c7
+https://downloads.cursor.com/production/fc3e38722d374aeba23729a31220a4f0662e3c9b/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.2.exe
+sha256:93cd379cfac6f7d84f850bb863fead485cbc2a2bb577f9349c7977ed1a722236
 
-## 0.39.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6-x64.exe
-sha512:12bd9c0ecfa5bc4c36518ef851d42b7b513811a3cc641f12c118b4aa3330b2b7d1de2346f255e0f8e8141f7e8467c8414200f52259717df26663fe82d07e3fa0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.39.0%20-%20Build%20240802cdixtv9a6-arm64.exe
+## 0.50.1
+https://downloads.cursor.com/production/81bf18c2ba01d6e7e886875bdb6d1d04ac31c1f7/win32/x64/user-setup/CursorUserSetup-x64-0.50.1.exe
+sha256:09c7099387f639e49e51bf324998e6acc51ac5e0e477c777c4cb7baa386210c7
+https://downloads.cursor.com/production/81bf18c2ba01d6e7e886875bdb6d1d04ac31c1f7/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.1.exe
+sha256:a5571d069d924a6b1e299c6c34aa6bdc8326d074447568a7652ce6d8d6c51a00
 
-## 0.38.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7-x64.exe
-sha512:c03d160a5c91426116c4cc61256df50b7d9106228e5e4b3216f1ad9271b9e2d92e9991b411b2e396f1ffb64d792e5711284333c2ac9b6e2a231d158c117a2cf2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.1%20-%20Build%20240725f0ti25os7-arm64.exe
+## 0.50.0
+https://downloads.cursor.com/production/bbfa51c1211255cbbde8b558e014a593f44051f4/win32/x64/user-setup/CursorUserSetup-x64-0.50.0.exe
+sha256:175c1b60df09fe657668755b8996fb5279d26716f38dd0da91cd9e20654b2552
+https://downloads.cursor.com/production/bbfa51c1211255cbbde8b558e014a593f44051f4/win32/arm64/user-setup/CursorUserSetup-arm64-0.50.0.exe
+sha256:c687e3fdde938f060891d624b682eee024a3c7f5693fcd0fd0b3373577774c14
 
-## 0.38.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2-x64.exe
-sha512:35483df0461c04317d5145186089fb0113fc30b31c1573a0b51fd80a402cf73fcb49bf7a0b01cbc1e035d0ec6cbed7f4e907060e9fabfb54964f65dd97bbd8f5
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.38.0%20-%20Build%20240723790oxe4a2-arm64.exe
+## 0.49.6
+https://downloads.cursor.com/production/0781e811de386a0c5bcb07ceb259df8ff8246a52/win32/x64/user-setup/CursorUserSetup-x64-0.49.6.exe
+sha256:78a5bc17ffaf9c8b382ad07d0d97237d1f32a0350061a5df8d8ee903bbd7d674
+https://downloads.cursor.com/production/0781e811de386a0c5bcb07ceb259df8ff8246a52/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.6.exe
+sha256:d46b5d5b166bec6e8bfb13a5aa348fe03e12a6e9f8480fd4e865864237bec036
 
-## 0.37.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k-x64.exe
-sha512:6c9871599d0e0becee36bce48dcc8adffd1be0bd091705425b8f59b1f1c951beae4863b65b7f35becdabe75c1c41da3a639158fd85739b47f58d6e98dc4630db
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.37.1%20-%20Build%20240714yrr3gmv3k-arm64.exe
+## 0.49.5
+https://downloads.cursor.com/production/fd861c8a80c0f9e4e35294b1915ee8a7b29ae858/win32/x64/user-setup/CursorUserSetup-x64-0.49.5.exe
+sha256:f6532fd4d67645ae796f093aae5e8798101e84ad5e6caa4756799a59601c646d
+https://downloads.cursor.com/production/fd861c8a80c0f9e4e35294b1915ee8a7b29ae858/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.5.exe
+sha256:82ddece9fd43e3fbc4338c2f23d14ded4473f2f155aed48ef5e4f721383389ec
 
-## 0.36.2
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby-x64.exe
-sha512:15e5cbf558d6d1a29fb1f50634f7bfac04b7d05030d7572445087e3a786bf2e4bcfc7c036f7da5ed481d589fb8b71af145d27c41c5249dc1e0b0597979ccb947
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.2%20-%20Build%202407077n6pzboby-arm64.exe
+## 0.49.4
+https://downloads.cursor.com/production/ec408037b24566b11e6132c58bbe6ad27046eb91/win32/x64/user-setup/CursorUserSetup-x64-0.49.4.exe
+sha256:f713d920a8bdc5b11f613a5229c7fd21c2b4fda5e0a44e493a708f4c2976eefc
+https://downloads.cursor.com/production/ec408037b24566b11e6132c58bbe6ad27046eb91/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.4.exe
+sha256:b63bcad5a0b24eda29e98943b45fc9ea041f00fd327e950306e7e01a15a7a49f
 
-## 0.36.1
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft-x64.exe
-sha512:046a2b0b79b7a6e606bad4376354f3654c5b40fc8c10aa62f9f073c1f4d591b0b5d4eedc764a64bfbb42d7cfcd270f098cd1c38ffa9bbb54f66d1bd57fbc1d3f
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.1%20-%20Build%20240706uekt2eaft-arm64.exe
+## 0.49.3
+https://downloads.cursor.com/production/224bc1da1a36703c583d62e407d4bccbb8c6a641/win32/x64/user-setup/CursorUserSetup-x64-0.49.3.exe
+sha256:4119276ca95980305417d04ce8922ee0f0cff189de2fbea4a16c8aa5badd42ac
+https://downloads.cursor.com/production/224bc1da1a36703c583d62e407d4bccbb8c6a641/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.3.exe
+sha256:e7c61e5591892582d7a4a204ce3ca161fac129a5322573aeaef7159e84ff6adb
 
-## 0.36.0
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa-x64.exe
-sha512:9a3f9b920085357acd007b1b5cc9cc35f0892c90833fa73e2e9b8545b75ef7e500e5c7e6a988de5f7b16cadfd2ff495b432536e7451d0ec740916352988c3664
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa-arm64.exe
-sha512:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.36.0%20-%20Build%20240703xqkjv5aqa-arm64.exe
+## 0.49.2
+https://downloads.cursor.com/production/1d0a7a3b734be5aea27e30d0c56d2a6e2c79da74/win32/x64/user-setup/CursorUserSetup-x64-0.49.2.exe
+sha256:f9ded70b0a6d6ce1edffb68c98f5fa24fb1125323da65f011eb568d6d7bfb75b
+https://downloads.cursor.com/production/1d0a7a3b734be5aea27e30d0c56d2a6e2c79da74/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.2.exe
+sha256:f7504d634cd4a2ac5ca8ca22ef4019e7cdb18ea75d3186066819e608536c51a0
+
+## 0.49.1
+https://downloads.cursor.com/production/600e5c827c07c5818474c1056eeec61d478b407a/win32/x64/user-setup/CursorUserSetup-x64-0.49.1.exe
+sha256:b395a97277e78b36213cd56bcd3cc6e77322ca112e08bcc2d67e2b1960bd7715
+https://downloads.cursor.com/production/600e5c827c07c5818474c1056eeec61d478b407a/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.1.exe
+sha256:ce163370f13035a9b29f198135f9ab4c7ae0f8f9bcef7026e90c98cd6141c389
+
+## 0.49.0
+https://downloads.cursor.com/production/88a47f0edd42a2ba73afb018ada9fe9eda7df75f/win32/x64/user-setup/CursorUserSetup-x64-0.49.0.exe
+sha256:073d447752ac13df39a41eb86c53543fe91ba29172d651a4ee53d9833ced6f78
+https://downloads.cursor.com/production/88a47f0edd42a2ba73afb018ada9fe9eda7df75f/win32/arm64/user-setup/CursorUserSetup-arm64-0.49.0.exe
+sha256:9de60f2191fe830b055f7c91f6ce89b811a361b372c10242bce662f3a0062939
+
+## 0.48.9
+https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/win32/x64/user-setup/CursorUserSetup-x64-0.48.9.exe
+sha256:7727d7ea23b69972c7b7c4a15a8b8cf10d806a4ab36b8253482d8a0c6cc6aad2
+https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.9.exe
+sha256:b802368719fdf4713fd7746c011695e84264b1f6437b98a658c30d240420d827
+
+## 0.48.8
+https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/win32/x64/user-setup/CursorUserSetup-x64-0.48.8.exe
+sha256:34e113f5f6c7938dd1d150a4ae9fbabb32e2a634573e6fc7b9d754603b9a15f3
+https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.8.exe
+sha256:76ffa7e45937354fa75dbabe687fa17c296657c46486d03327697b8fb628ee7c
+
+## 0.48.7
+https://downloads.cursor.com/production/1d623c4cc1d3bb6e0fe4f1d5434b47b958b05876/win32/x64/user-setup/CursorUserSetup-x64-0.48.7.exe
+sha256:54185b0bee8dad42812d9eb376d918c537d5e98dd63bfb61c1251a04c4036287
+https://downloads.cursor.com/production/1d623c4cc1d3bb6e0fe4f1d5434b47b958b05876/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.7.exe
+sha256:fd84001ba1b8c88fb2c8d421d01ea840f6c546b88c0759164f9c1c6d413d2b89
+
+## 0.48.6
+https://downloads.cursor.com/production/1649e229afdef8fd1d18ea173f063563f1e722ef/win32/x64/user-setup/CursorUserSetup-x64-0.48.6.exe
+sha256:c16d8f8606807ad2dbb60c7860b3a29a04c8df8fb6af27a8370aeedaede28ea5
+https://downloads.cursor.com/production/1649e229afdef8fd1d18ea173f063563f1e722ef/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.6.exe
+sha256:b549b7155066a26b1b2b60f61bc3ec2f01de6e5337efb6139994e0e538457de2
+
+## 0.48.5
+https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/win32/x64/user-setup/CursorUserSetup-x64-0.48.5.exe
+sha256:ac1cbad385e0f96cdbdcf0da9f68c73c7bf627ad1769fb92261285e404d98f95
+https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.5.exe
+sha256:57961b27996c88909716576ecd339050d86c7b6e301561a4f6485978ce39320a
+
+## 0.48.4
+https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/win32/x64/user-setup/CursorUserSetup-x64-0.48.4.exe
+sha256:8395149f51e164555f7b7e35c258097fbc57d45377790d4c3a6d9c91040cca08
+https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.4.exe
+sha256:88cd781f0132f60813483b738dec740eea7e60a8b05350ffc8a70850a19884c8
+
+## 0.48.3
+https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/win32/x64/user-setup/CursorUserSetup-x64-0.48.3.exe
+sha256:d145d1e18e44522d3a603b757fcbdc9b98e6dcf16e49bc447262e75309b780d6
+https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.3.exe
+sha256:下载失败 - ('Connection broken: IncompleteRead(8843446 bytes read, 105357162 more expected)', IncompleteRead(8843446 bytes read, 105357162 more expected))
+
+## 0.48.2
+https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/win32/x64/user-setup/CursorUserSetup-x64-0.48.2.exe
+sha256:b0a2701dbcf5525fffb61df580594a91046fd040ab2435efec30592ea4ba094e
+https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.2.exe
+sha256:2fe8b1957ed97665c309ec3aec1810f7d6147249da17e0bee39cbcdc711e74ae
+
+## 0.48.1
+https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/win32/x64/user-setup/CursorUserSetup-x64-0.48.1.exe
+sha256:ebd435e4b4f089bc989d9831344f37cf4db27cebc7144884eff52c302988c6df
+https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.1.exe
+sha256:26c514e575683b21320c88469498b9f897512f96dbcc31e81b41b97e92da7beb
+
+## 0.48.0
+https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/win32/x64/user-setup/CursorUserSetup-x64-0.48.0.exe
+sha256:fcef7dee20f2f70ece5a8709ef17232837d93ea7be604c4a23064028b5ae7b29
+https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/win32/arm64/user-setup/CursorUserSetup-arm64-0.48.0.exe
+sha256:44eeda6e1137a59a215e1cd7c11ba7fb5a3bcc35b31703c1dbd0dbac4a662ebc
 
