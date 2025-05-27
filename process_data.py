@@ -72,23 +72,23 @@ for block in version_blocks:
             else:
                 print(f"文件大小: {file_size_mb} MB")
 
-            # 计算SHA512校验和
-            sha512 = hashlib.sha512()
+            # 计算SHA256校验和
+            sha256 = hashlib.sha256()
             with open(file_path, 'rb') as f:
                 for chunk in iter(lambda: f.read(4096), b""):
-                    sha512.update(chunk)
+                    sha256.update(chunk)
 
             # 写入结果到new.txt（不包含文件大小和警告信息）
             with open('new.txt', 'a', encoding='utf-8') as f:
                 f.write(f"{url}\n")
-                f.write(f"sha512:{sha512.hexdigest()}\n")
+                f.write(f"sha256:{sha256.hexdigest()}\n")
 
         except Exception as e:
             # 下载失败
             print(f"下载失败: {str(e)}")
             with open('new.txt', 'a', encoding='utf-8') as f:
                 f.write(f"{url}\n")
-                f.write(f"sha512:下载失败 - {str(e)}\n")
+                f.write(f"sha256:下载失败 - {str(e)}\n")
 
         # 删除下载的文件以节省空间
         if file_path.exists():
