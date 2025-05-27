@@ -1,11 +1,148 @@
-## 0.45.17
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz-x64.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz-arm64.exe
+## 0.45.12
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.12%20-%20Build%202502180s4ios0dk-arm64.exe
 
 
+## 0.45.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.11%20-%20Build%20250207y6nbaw5qc.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.11%20-%20Build%20250207y6nbaw5qc-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.11%20-%20Build%20250207y6nbaw5qc-arm64.exe
 
-## 0.45.14
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-x64.exe
-https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-arm64.exe
+
+## 0.45.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.10%20-%20Build%20250205buadkzpea.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.10%20-%20Build%20250205buadkzpea-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.10%20-%20Build%20250205buadkzpea-arm64.exe
+
+
+## 0.45.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.9%20-%20Build%20250202tgstl42dt.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.9%20-%20Build%20250202tgstl42dt-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.9%20-%20Build%20250202tgstl42dt-arm64.exe
+
+
+## 0.45.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.8%20-%20Build%20250201b44xw1x2k.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.8%20-%20Build%20250201b44xw1x2k-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.8%20-%20Build%20250201b44xw1x2k-arm64.exe
+
+
+## 0.45.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.7%20-%20Build%20250130nr6eorv84.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.7%20-%20Build%20250130nr6eorv84-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.7%20-%20Build%20250130nr6eorv84-arm64.exe
+
+
+## 0.45.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.6%20-%20Build%2025013021lv9say3.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.6%20-%20Build%2025013021lv9say3-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.6%20-%20Build%2025013021lv9say3-arm64.exe
+
+
+## 0.45.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.5%20-%20Build%20250128loaeyulq8.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.5%20-%20Build%20250128loaeyulq8-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.5%20-%20Build%20250128loaeyulq8-arm64.exe
+
+
+## 0.45.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.4%20-%20Build%20250126vgr3vztvj.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.4%20-%20Build%20250126vgr3vztvj-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.4%20-%20Build%20250126vgr3vztvj-arm64.exe
+
+
+## 0.45.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.3%20-%20Build%20250124b0rcj0qql.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.3%20-%20Build%20250124b0rcj0qql-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.3%20-%20Build%20250124b0rcj0qql-arm64.exe
+
+
+## 0.45.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.2%20-%20Build%20250123mhituoa6o.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.2%20-%20Build%20250123mhituoa6o-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.2%20-%20Build%20250123mhituoa6o-arm64.exe
+
+
+## 0.45.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.1%20-%20Build%202501213ljml5byg.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.1%20-%20Build%202501213ljml5byg-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.1%20-%20Build%202501213ljml5byg-arm64.exe
+
+
+## 0.45.0
+https://download.todesktop.com/230313mzl4w4u92/cursor%20setup%200.45.0%20-%20build%20250120dh9ezx9pg.exe
+https://download.todesktop.com/230313mzl4w4u92/cursor%20setup%200.45.0%20-%20build%20250120dh9ezx9pg-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/cursor%20setup%200.45.0%20-%20build%20250120dh9ezx9pg-arm64.exe
+
+## 0.44.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z-arm64.exe
+
+
+## 0.44.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.10%20-%20Build%20250102ys80vtnud.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.10%20-%20Build%20250102ys80vtnud-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.10%20-%20Build%20250102ys80vtnud-arm64.exe
+
+
+## 0.44.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.9%20-%20Build%202412268nc6pfzgo.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.9%20-%20Build%202412268nc6pfzgo-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.9%20-%20Build%202412268nc6pfzgo-arm64.exe
+
+
+## 0.44.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.8%20-%20Build%20241222ooktny8mh.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.8%20-%20Build%20241222ooktny8mh-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.8%20-%20Build%20241222ooktny8mh-arm64.exe
+
+
+## 0.44.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.7%20-%20Build%202412219nhracv01.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.7%20-%20Build%202412219nhracv01-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.7%20-%20Build%202412219nhracv01-arm64.exe
+
+
+## 0.44.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.6%20-%20Build%202412214pmryneua.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.6%20-%20Build%202412214pmryneua-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.6%20-%20Build%202412214pmryneua-arm64.exe
+
+
+## 0.44.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.5%20-%20Build%20241220s3ux0e1tv.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.5%20-%20Build%20241220s3ux0e1tv-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.5%20-%20Build%20241220s3ux0e1tv-arm64.exe
+
+
+## 0.44.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.4%20-%20Build%20241219117fcvexy.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.4%20-%20Build%20241219117fcvexy-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.4%20-%20Build%20241219117fcvexy-arm64.exe
+
+
+## 0.44.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.3%20-%20Build%20241218sybfbogmq.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.3%20-%20Build%20241218sybfbogmq-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.3%20-%20Build%20241218sybfbogmq-arm64.exe
+
+
+## 0.44.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.2%20-%20Build%20241218ntls52u8v.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.2%20-%20Build%20241218ntls52u8v-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.2%20-%20Build%20241218ntls52u8v-arm64.exe
+
+
+## 0.44.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu-arm64.exe
+
+
+## 0.44.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu-x64.exe
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.0%20-%20Build%202412187f9v0nffu-arm64.exe
+

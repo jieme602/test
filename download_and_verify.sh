@@ -39,10 +39,10 @@ while IFS= read -r line || [ -n "$line" ]; do
                     sha512=$(sha512sum "$TMP_DIR/$filename" | cut -d' ' -f1)
                     
                     # 写入结果到new.txt
-                    echo "$url $filename" >> new.txt
+                    echo "$url" >> new.txt
                     echo "sha512:$sha512" >> new.txt
                 else
-                    echo "$url $filename" >> new.txt
+                    echo "$url" >> new.txt
                     echo "sha512:下载失败 - 无法获取文件" >> new.txt
                 fi
                 
@@ -80,10 +80,10 @@ if [ ! -z "$version" ] && [ ${#urls[@]} -eq 3 ]; then
         if curl -L "$url" -o "$TMP_DIR/$filename" 2>/dev/null; then
             sha512=$(sha512sum "$TMP_DIR/$filename" | cut -d' ' -f1)
             
-            echo "$url $filename" >> new.txt
+            echo "$url" >> new.txt
             echo "sha512:$sha512" >> new.txt
         else
-            echo "$url $filename" >> new.txt
+            echo "$url" >> new.txt
             echo "sha512:下载失败 - 无法获取文件" >> new.txt
         fi
         
