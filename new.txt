@@ -1,0 +1,15 @@
+## 0.45.17
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz.exe Cursor Setup 0.45.17 - Build 250219jnihavxsz.exe
+sha512:159e892c95c4d4abb9a5feb448336e3ca5b526dd57453b919e7dce8d4c2f3eb1d5eeb207eb23719f6ef987bae6b517e5c0d447b03a3f5c7f6f453dca4b1caf76
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz-x64.exe Cursor Setup 0.45.17 - Build 250219jnihavxsz-x64.exe
+sha512:c787473ef28bab5c85547f301a1c54110be278526d42d3b9d37932e694910440f8593f328320625d9e4f926e169ea705cf5d36e9482b6b9857a5f37217fe64cc
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.17%20-%20Build%20250219jnihavxsz-arm64.exe Cursor Setup 0.45.17 - Build 250219jnihavxsz-arm64.exe
+sha512:c4b48e715683c0940d7ac1336adf544e271879309ef778ff85fd6b8410ed5ce4b181469f4f3417d0a7fe8d5c7f571d60fa7aa1fc4f0db96b94d4768f6670dc92
+
+## 0.45.14
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz.exe Cursor Setup 0.45.14 - Build 250219jnihavxsz.exe
+sha512:588635b9c78f9c2ea88358d8819a1cd8904f9d7e7822c7473a58f9a5cc6b92308730ae1cfab0aa97fae5b4cafcd0b01e25a0945208375f06a944416e66db6913
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-x64.exe Cursor Setup 0.45.14 - Build 250219jnihavxsz-x64.exe
+sha512:9c2a2f7064b071ee684201f021e792e5c5505076368038eb054bf109907ce2bfbc4044c8c45e279e57ca6593a22c248ad62f545aaf1a5fd4eb3e82de34c6fa89
+https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.45.14%20-%20Build%20250219jnihavxsz-arm64.exe Cursor Setup 0.45.14 - Build 250219jnihavxsz-arm64.exe
+sha512:a718cc505ef19743863e2c0183e28460b05f9fe977e5019c36667edccc535a305ae14ec68db9ec6278754126d4a7b33173f6f0360147c1524b2299f35f3b7c22
