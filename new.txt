@@ -1,240 +1,168 @@
-## 0.48.9
-https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/darwin/universal/Cursor-darwin-universal.dmg
-sha256:e7b8563d5bda1e411002a2e331e519653999cbed4eaadf5db79415fef457af8e
-https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/darwin/x64/Cursor-darwin-x64.dmg
-sha256:d7bd8118d355be966193df6b40dd7db53b31bd10038e6b44ce09196b391efefe
-https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:210e1467010154631a194acd5475b14918dbc3caa12e3389d8a61cf58dba2d95
-https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/linux/x64/Cursor-0.48.9-x86_64.AppImage
-sha256:470f7a08837ebcbd5b223e68ebc8169077a2aa0c44c736e3c1c5b869dd743362
-https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/linux/arm64/Cursor-0.48.9-aarch64.AppImage
-sha256:44c0d8a104883b48ee9210b98f54e3a7009c2b4b449efa15a576c53b1a7f2bca
+## 0.46.11
+https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/universal/Cursor-darwin-universal.dmg
+sha256:42698623c59ce9547e9831289050ac1c322cb131e42e1f69a45060f1bce3b7ca
+https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/x64/Cursor-darwin-x64.dmg
+sha256:88b1c8622e4c6f9f0a79625eb8603b25e4f89f22d38e0cf2f0609ce2c98d650a
+https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:011e792ab1441b754e8f5c7f77caa6f36997ae5332e20ccec30999d516f04d2d
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+sha256:25191161e875de4dd97872eb70b643c8ccd961fe3046c76a9b6ec7695e5ac05c
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.28-aarch64.AppImage
+sha256:a0261d3efd10d95f6faf763900aac6403bf1414dec4c043ed5a19af49f1c804f
 
-## 0.48.8
-https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/darwin/universal/Cursor-darwin-universal.dmg
-sha256:3f598a724453b8a45e20bb30c1153b51c8da33605420c97327cef8c89738e9a9
-https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/darwin/x64/Cursor-darwin-x64.dmg
-sha256:b8b28e8e8e1a60ad2bebd6b48c57afcc4e1b249d26aa0d292443d876d968f2d5
-https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:c5298148af69ba6e9196f5e7ca1340d4733a63cf11d9b44048990b4c77f1ccc6
-https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/linux/x64/Cursor-0.48.8-x86_64.AppImage
-sha256:ff99b0125ccdd2e511a695822d83cf102b3a1b35ed079e2fdbe8d00f54477091
-https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/linux/arm64/Cursor-0.48.8-aarch64.AppImage
-sha256:3971948d3370734559f10edaaccca17e137f6cf4ce0984bd05f8b52384c90976
+## 0.46.10
+https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/universal/Cursor-darwin-universal.dmg
+sha256:21e83be8926de138229c7ff2510615788bcb9c01ef0e06698b095317af33d8ac
+https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/x64/Cursor-darwin-x64.dmg
+sha256:bab32f209ba7e9771a73bbdfb0d4d36b12db750dcf1b1b6b09ef3cfd15cfc4e1
+https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:adf0bc51d01f173871f5e36c773f817371a71121ddb2a1656860681becb566ee
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.25-x86_64.AppImage
+sha256:0c171d9f9e24a9e8675877e3fa75d32323ddc71d1364b63f343c7f55851bc787
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.28-aarch64.AppImage
+sha256:ebc7c9ae6aeb0acc5518fa5c968ac119cb43473aecfc9538ce017d715956c5a5
 
-## 0.48.7
-https://downloads.cursor.com/production/66290080aae40d23364ba2371832bda0933a3641/darwin/universal/Cursor-darwin-universal.dmg
-sha256:ab229ace2ac90d6cfa15936335c9dda2770814ca3886a0afc59ee8c3cb1ea41a
-https://downloads.cursor.com/production/66290080aae40d23364ba2371832bda0933a3641/darwin/x64/Cursor-darwin-x64.dmg
-sha256:4ec2cafd2cb1699ee720ae013b777c851f1c9eb3f38ec23844804217b872dd23
-https://downloads.cursor.com/production/66290080aae40d23364ba2371832bda0933a3641/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:b2543484f394314fb3a66b01f68c59d5b5954b2a95d2df8d9e0e9b870a3a9168
-https://downloads.cursor.com/production/66290080aae40d23364ba2371832bda0933a3641/linux/x64/Cursor-0.48.7-x86_64.AppImage
-sha256:9e73dbbfbe0339c3aa82702a5b6219d52fe555b7eff2949ee806f904e77392bb
-https://downloads.cursor.com/production/66290080aae40d23364ba2371832bda0933a3641/linux/arm64/Cursor-0.48.7-aarch64.AppImage
-sha256:f7b42482ec40fb91bdf19b262c75550849efd2398b2dfa8f983b3c5a85ab7f1c
+## 0.46.9
+https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/universal/Cursor-darwin-universal.dmg
+sha256:a4ba4a1ae9aaf000325b48fcacc6630fb278f8fc1e637c2bf42e81b5ddde38c7
+https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/x64/Cursor-darwin-x64.dmg
+sha256:2bdf6dbeb6db2a6096aa45e19169131dff87f2d641005bb2fa44eab3b4083f40
+https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:fa4f050f7d25862d6af065d6bb9ba98799a2808522f18e7205ba10c4c41c5588
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.25-x86_64.AppImage
+sha256:19b945b892f6c7e548b28f2f2bf4d1e377ab1353b44e97c000d03291f24118d0
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.28-aarch64.AppImage
+sha256:c8592071245c9f85d50b662a36098cc11ed7f00ccf9f6cc1ab089a2652407a1b
 
-## 0.48.6
-https://downloads.cursor.com/production/7da827d66e9b56a846349698c70129a436421245/darwin/universal/Cursor-darwin-universal.dmg
-sha256:07e845f73c1857999ba26a8d5d5454d4a4f48231504f8f92a53a7a0d71edbd9e
-https://downloads.cursor.com/production/7da827d66e9b56a846349698c70129a436421245/darwin/x64/Cursor-darwin-x64.dmg
-sha256:1bbf87972e46d5a21b2b99b804cd3ddac91aeba0c606cd6ff36e7bfbaddd1cb8
-https://downloads.cursor.com/production/7da827d66e9b56a846349698c70129a436421245/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:2c8999290156c987e0b0ac33d1310b5b82803c02371156a29f0d9625d75fd08a
-https://downloads.cursor.com/production/7da827d66e9b56a846349698c70129a436421245/linux/x64/Cursor-0.48.6-x86_64.AppImage
-sha256:55edb262b90a90633813c972d7aeb37a7dda5f4f1fd4baef57b73956feef1793
-https://downloads.cursor.com/production/7da827d66e9b56a846349698c70129a436421245/linux/arm64/Cursor-0.48.6-aarch64.AppImage
-sha256:af33044e9b799b3521caa678c7347c2508c7e0f3a7abf9459ecad8be384da399
+## 0.46.8
+https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/universal/Cursor-darwin-universal.dmg
+sha256:cd0b7cbb5c96b82acf279a6432b121f6802c4914b44be1cb8319d16f45f7176c
+https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/x64/Cursor-darwin-x64.dmg
+sha256:adb8d6d1c0362cf315b1d34ce6ee0109ca53d5846687c70a85228ae6e4e135e1
+https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:eaeba4aa6de1b3cbc276115a6bc371d0779d6339190114a389753b2431ab586b
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.25-x86_64.AppImage
+sha256:84d1b63e99919c1bc85e8b51b99e4fa8e68e54f9fbe62c44dd85e151d88a429f
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.28-aarch64.AppImage
+sha256:b1bc70ed7a5f3913bc3fe043fe7cd250125ec3e56e591d608af1984bea7f16f1
 
-## 0.48.5
-https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/darwin/universal/Cursor-darwin-universal.dmg
-sha256:629c7092aee4b56ebaaea626f0919e9b83e71eb524ac3df4fe4c4f0716524338
-https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/darwin/x64/Cursor-darwin-x64.dmg
-sha256:94e3b4d25cb03a8cb77a2bad9667d7a1a5add14a8c7b12c3b8800f31396b59e8
-https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:c79a51bd270fd7e8fd476d8503708822ca412b655bdd9020b8098de82886b4bb
-https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/linux/x64/Cursor-0.48.5-x86_64.AppImage
-sha256:265f445ce1a44dc4db06b8027cb18c08281cc02707fb98eee4371403b7d82222
-https://downloads.cursor.com/production/ec8ef865575596e5c64d3b6cf9a933b93ad4ac02/linux/arm64/Cursor-0.48.5-aarch64.AppImage
-sha256:4682d61153febf2ef25840bc94effd741ad255b22bd512d4b3a395ddba639f5e
+## 0.46.7
+https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/universal/Cursor-darwin-universal.dmg
+sha256:8008415bce0ff0dcc60af8e94073ba0d5affd8b8466e8ef4eb2309ab93b6a9c6
+https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/x64/Cursor-darwin-x64.dmg
+sha256:9f5b3db70dce1efdaa137312d4b1d713a64f3472d5a1043aa4615e3a33476437
+https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:d7142f7790f1a2178a12229f291bdd48104b12e8f7e528b238dff8c6107a6e32
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.25-x86_64.AppImage
+sha256:9be579cb17096710ee03ed08871cc747d69a6afd5abd8ea1bfed2a5ce8b70422
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.28-aarch64.AppImage
+sha256:3dfbd35b38738d78dc20c4541cc97b35f5478cc10f9b0d766f93dcde648ace9d
 
-## 0.48.4
-https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/darwin/universal/Cursor-darwin-universal.dmg
-sha256:5fdb2304a74d04ff516d8a9e15339f4845cb80abbcbee30c1eae49c3b3ddd534
-https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/darwin/x64/Cursor-darwin-x64.dmg
-sha256:5a1e02bf03915ae40ccf7a4405df85eb2eedef21c48f898e66e8a2495b7a199a
-https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:6ef9d35f643ae693565eed05d60b55e5b036a2019ff5d8961b7de868a007c3fa
-https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/linux/x64/Cursor-0.48.4-x86_64.AppImage
-sha256:145b508092d7b5da8389bb06aebbaa1fbe1890cb994d619a1032427ecb7f93e5
-https://downloads.cursor.com/production/2d6a87f894b91f2d4a045294e1ad36d208023ccb/linux/arm64/Cursor-0.48.4-aarch64.AppImage
-sha256:acc3139a252c3f36d0ab9a5e740fafd41028325879603da8d1d916b7c9db7a94
+## 0.46.6
+https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/universal/Cursor-darwin-universal.dmg
+sha256:d9fb007130bc91f7fae6c7ffc05bb79cdf0e6c54197ae6211e962887b621b683
+https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/x64/Cursor-darwin-x64.dmg
+sha256:0181d38f285d44189796c3084a7d62fffb907de0f2095f2e683df34d5779ee5b
+https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:08812241f8efe4f1b9d0e2948fc4be43a64b23416970dec483ab74b2a019b85c
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.25-x86_64.AppImage
+sha256:608b3f4e81d14c182a5d2bd4992ff7446b58a0d61767f87131023961096f0109
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.28-aarch64.AppImage
+sha256:f87e130424045bf2a4be8d35104709a23a7ff3d66bfd130bfb8d714a51c13daa
 
-## 0.48.3
-https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/darwin/universal/Cursor-darwin-universal.dmg
-sha256:fa0b564a2734e26042752f4b616070968b58e3f08b2fa83e5ebec534cf6bb2df
-https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/darwin/x64/Cursor-darwin-x64.dmg
-sha256:30bdd78f001d123318e4c76f8168ace2bcea6df1e291756c79aa5826f9e21d27
-https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:3cfc97eeb5906235a47664d9434ac85e14daca4bed74283d1164de7cf292baad
-https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/linux/x64/Cursor-0.48.3-x86_64.AppImage
-sha256:cf277b5533a0e71365ecb9106edfe54ff3fb537a46528f0bde52e03be1988845
-https://downloads.cursor.com/production/d0f2e6e7e022d8e024f7eb7d085cadf3d1f4df20/linux/arm64/Cursor-0.48.3-aarch64.AppImage
-sha256:3f516ba60ac6793d9dd2d6cd2da69dc025e9c701b9bb455edf7a8fe9617000c0
+## 0.46.5
+https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/universal/Cursor-darwin-universal.dmg
+sha256:0dbdb4bdae4c7984fe023f9b636367d08cdf3f77d154ef69ded58a7a20431925
+https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/x64/Cursor-darwin-x64.dmg
+sha256:ed25165605b26187acd78b93affe01feeb1dc251cf9acb26e5aea9f5b39e871a
+https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:d5c5697bc4a0e887c17d785747d09bd37d2923c14841ed23177d46caaf4361e5
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.25-x86_64.AppImage
+sha256:c0c56b74512bf4745e3eae2dee1c9943887ac0f3c75c61f400b0804fab87ecdd
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.28-aarch64.AppImage
+sha256:873c58f1dd2522427e317dcb2abdaa83778467da5ceae1e4f6c362859d482f6b
 
-## 0.48.2
-https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/darwin/universal/Cursor-darwin-universal.dmg
-sha256:fa32eeda43a01c8a7d903d036f9bd71e996563f18b7a24558e287c1a826397da
-https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/darwin/x64/Cursor-darwin-x64.dmg
-sha256:20643ee0981c0dc29e96874f811b8a170a989c1035dc4ee7a88c69a1380760cc
-https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:86921fd7db79798a1606d94f46a14b4219609dc5f2baab62f9e263e810b968a4
-https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/linux/x64/Cursor-0.48.2-x86_64.AppImage
-sha256:3972fd0be1a7abc9eb8c28ef6717072ca932a0ad4146c13ed09eb58fdd871689
-https://downloads.cursor.com/production/7d6318dfcfbf7c12a87e33c06978f23167a6de3c/linux/arm64/Cursor-0.48.2-aarch64.AppImage
-sha256:6a5107873003940000967fe60e80131b5fd888defcf0bf3909faedcb7d499aa0
+## 0.46.4
+https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/universal/Cursor-darwin-universal.dmg
+sha256:d21e37b6507681d7b695c3ed398820c2a1b17338f6673ec26fd84710195cc7c7
+https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/x64/Cursor-darwin-x64.dmg
+sha256:d159c511d7c8dc7d04129b9a9d009f3a3c8c44f8c0f0bf0b3e2dbe3c95260098
+https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:2e4a2c4e040912b7b6510672f6a9a35136b83bf5d9b5cf5614bb8641c2e5db59
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.25-x86_64.AppImage
+sha256:2aac74a21f1aec26c17fed1708d21d0de1b620b7b37769352c38ae060048417a
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.28-aarch64.AppImage
+sha256:764789a07af2fff6a24ab92ca34a39cb15d95178a1fb49fe083c94a0e369b026
 
-## 0.48.1
-https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/darwin/universal/Cursor-darwin-universal.dmg
-sha256:9e5ec799efd0d6922f92ba4b3de11653e1c43022870d19a3078ebc06bf4d143d
-https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/darwin/x64/Cursor-darwin-x64.dmg
-sha256:cdc65f4a197cd918a2d4dab5ad67136c9c836dc551d0e2be5a3399814607d6a4
-https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:a14615581cb1ed8f610d9d1271be505ae4f321ae003eb0c67c5da96aba3f708f
-https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/linux/x64/Cursor-0.48.1-x86_64.AppImage
-sha256:01fcb4d042cbfc18d79dead3de2a7f03efe7a6a2ef5e4199e248cdb91696b605
-https://downloads.cursor.com/production/0139db98f117ab50fcaaf7a0b1c69d345bd98a14/linux/arm64/Cursor-0.48.1-aarch64.AppImage
-sha256:c9395a919c06c20516cc678917b46913c6af3a2b57b51cf16409952d5870af42
+## 0.46.3
+https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/universal/Cursor-darwin-universal.dmg
+sha256:f367a02a8cd02532c5a62966e9386626ddfe60d00be57ff22837cdf8e9da7282
+https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/x64/Cursor-darwin-x64.dmg
+sha256:d3fe65777e4577e56d89d7506fca99be27e08cbbebd75f81df398568e0e47780
+https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:9d5ab83231bb0493a355d38964930e8de785db3b23fab6a97d3e360efd410d2b
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.25-x86_64.AppImage
+sha256:0a56c62ff56fa59ae6a4af31e4216ab7b602e2cc9b8f5f11b4d2a7c9d8ad9e12
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.28-aarch64.AppImage
+sha256:a4c1a67ff2212a5b8be2e54c68e680f22c1b7ed1213545c19d25e4442afd43e2
 
-## 0.48.0
-https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/darwin/universal/Cursor-darwin-universal.dmg
-sha256:98bb8785ebade1ebb06deecea6fec192a0b7c00f3cf70385d4ce427bc9c5a17e
-https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/darwin/x64/Cursor-darwin-x64.dmg
-sha256:e1138cd1c96fff313f5b245889c7865cba452c66153b6a142e91af42ebf6f6c7
-https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:2f8da93fdb8862ebc3fd5640323fde10836085ebc9fe2c58cd1e121aa30a1c4f
-https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/linux/x64/Cursor-0.48.0-x86_64.AppImage
-sha256:1aa7a75b3e5c28665544f0a956edb4d310dfd44264e1f536949e5bcc6f98689f
-https://downloads.cursor.com/production/3def0c1e43c375c98c36c3e60d2304e1c465bd5c/linux/arm64/Cursor-0.48.0-aarch64.AppImage
-sha256:92a74ba726f9743e4e3fb0223b5da4b87cb10c8ce51e33834f8d4df27329f57d
+## 0.46.2
+https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/universal/Cursor-darwin-universal.dmg
+sha256:1bf8a208da85300d0a4584d12764a62f87bbef2a26bad5f6e9f7462103542e44
+https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/x64/Cursor-darwin-x64.dmg
+sha256:87a2ad7d372f9deed4bc4a3f7fb51e436545fc20d990b35bc9ab3fcb9dae1c4a
+https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:098737574b989815649682b14f7e8bfeeb8abe68b5e267a109b4b4f2b4154642
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.25-x86_64.AppImage
+sha256:83883d05f7d925175d155ae7462f6377dd6cf37e585839e091fdabe200e7dcb1
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.28-aarch64.AppImage
+sha256:bf5c637836adc4d6c4567299483f1d9321363c9053e2776b0a4bba4d30a691b4
 
-## 0.47.9
-https://downloads.cursor.com/production/b6fb41b5f36bda05cab7109606e7404a65d1ff32/darwin/universal/Cursor-darwin-universal.dmg
-sha256:5a3cd989b923ecb3e91ad740623364e2808ba36071dbc15a6f5eb5444c4bf0eb
-https://downloads.cursor.com/production/b6fb41b5f36bda05cab7109606e7404a65d1ff32/darwin/x64/Cursor-darwin-x64.dmg
-sha256:ceee1d8a24d415902e7fe54bf236ac2cb4740ff489ba7403a1aa33809de32957
-https://downloads.cursor.com/production/b6fb41b5f36bda05cab7109606e7404a65d1ff32/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:a6a87f10186dcaf15c8d033e83b2605bdc1f4246b428cff30a3dbde5450e18ee
-https://downloads.cursor.com/production/b6fb41b5f36bda05cab7109606e7404a65d1ff32/linux/x64/Cursor-0.47.9-x86_64.AppImage
-sha256:2f464e0c61e63bc48386aae792aee3c22df473a97efc44a3f855c754a821b1f7
-https://downloads.cursor.com/production/b6fb41b5f36bda05cab7109606e7404a65d1ff32/linux/arm64/Cursor-0.47.9-aarch64.AppImage
-sha256:3a168aba32d7b74e832f8ddf639bd168665ede9f18d66b76db2e4eaf333798c9
+## 0.46.1
+https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/universal/Cursor-darwin-universal.dmg
+sha256:b8108a782319526fc58e94ad97eedb0d21d51dbc169f77b9d865984e00405362
+https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/x64/Cursor-darwin-x64.dmg
+sha256:85d363b78de2a1a04dc4ca81df6c5eac61e3b6065d1e6ef659511354f2a599ec
+https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:1d3056935ac85e68fde5477e6158ef26d2416f4c6bc7f0d4faaedfaa95da28bf
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.25-x86_64.AppImage
+sha256:ccffa999f373d8e5c9066688f9c13be65346b821b8bdec788ab3c20b772664e4
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.28-aarch64.AppImage
+sha256:a960dbf79d4a0d1386b5d108bc204c2cb88f4ec38ee876c62cb0ae4f9ca5831f
 
-## 0.47.8
-https://downloads.cursor.com/production/82ef0f61c01d079d1b7e5ab04d88499d5af500e3/darwin/universal/Cursor-darwin-universal.dmg
-sha256:ced57edf8b3ba55aeeb65060e2a889bec22ca3bba6da7cb7b1c49cfdf3825ff1
-https://downloads.cursor.com/production/82ef0f61c01d079d1b7e5ab04d88499d5af500e3/darwin/x64/Cursor-darwin-x64.dmg
-sha256:4f937c6ffe877b143665c85651bf422f7b7d92cf773bd58982b0edc5f1354a05
-https://downloads.cursor.com/production/82ef0f61c01d079d1b7e5ab04d88499d5af500e3/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:c9cae8ca57c4658fca7d1897bdf3ae4ddcb28256e0fc9ec3535daee97aec934b
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.8-82ef0f61c01d079d1b7e5ab04d88499d5af500e3.deb.glibc2.25-x86_64.AppImage
-sha256:dcf87903ec75856d1239a5fc085edbffc16aede31e0641b58eef6fb9de826e7d
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.8-82ef0f61c01d079d1b7e5ab04d88499d5af500e3.deb.glibc2.28-aarch64.AppImage
-sha256:2a7e2e7621e62ae4add76cb03fdf7ad5c4fd1c5c05478b12876f9bafbec9cf35
+## 0.46.0
+https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/universal/Cursor-darwin-universal.dmg
+sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/universal/Cursor-darwin-universal.dmg
+https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/x64/Cursor-darwin-x64.dmg
+sha256:76b2e58829412679cf2c34e21d83084cd1f619ca11a98282482d6e2e7db16500
+https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:6d0ab43a26104e029e2120c7e3492112e315557793eb21f139bd394dbea80d65
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.25-x86_64.AppImage
+sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.25-x86_64.AppImage
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.28-aarch64.AppImage
+sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.28-aarch64.AppImage
 
-## 0.47.7
-https://downloads.cursor.com/production/33ec0dad159bc0ad620f6bbda539efe90c39748d/darwin/universal/Cursor-darwin-universal.dmg
-sha256:b6a84ef4ee1cbbe130188773cf37c02fc14f2cf0062ce3d81f2a1a1406f87237
-https://downloads.cursor.com/production/33ec0dad159bc0ad620f6bbda539efe90c39748d/darwin/x64/Cursor-darwin-x64.dmg
-sha256:a09faae05b31f0874d230b93021e23904552a301066c6d0976f3f8de2d44bbb0
-https://downloads.cursor.com/production/33ec0dad159bc0ad620f6bbda539efe90c39748d/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:981eddd120c0451f68b8ed75b90f710095af3102b28f072d3a64d85e24f8f7aa
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.7-33ec0dad159bc0ad620f6bbda539efe90c39748d.deb.glibc2.25-x86_64.AppImage
-sha256:8952f49f0f29b10226bc591d498cb683ac6c1484dfa610a74cc5be5d765bece6
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.7-33ec0dad159bc0ad620f6bbda539efe90c39748d.deb.glibc2.28-aarch64.AppImage
-sha256:2660759c426bef4239d01978d6f72755a7dedb8e76d0ae5c8b972809d8fc03e9
+## 0.45.17
+https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/universal/Cursor-darwin-universal.dmg
+sha256:10aa3733f8ed1d9bd18a16fa78e1ab270013eca3b3b3d335e1b08fd4f0632d6a
+https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/x64/Cursor-darwin-x64.dmg
+sha256:ab16776c890da813d5cc7c61a07ee323a3934db1616dceafe26df40bbb428b56
+https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:b5fd5fd6b6b1202ae79802a29f2ffff5c9a31596130372127a910dbe1771f94f
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.25-x86_64.AppImage
+sha256:b48b5df9c72e8383446e3a68c938fa3697be6de846b4c0a517ab2f991c2f3716
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.28-aarch64.AppImage
+sha256:5059d21f9a3c8c1276f9200841d4f414ce3c92f1fb37f4105f870c126ec8d84d
 
-## 0.47.6
-https://downloads.cursor.com/production/6a1a6fbc55483584e7022f491c8a167ccac86f22/darwin/universal/Cursor-darwin-universal.dmg
-sha256:77d347d0d2f361c5ab3161eb96de07a67dd2febc9c4e23d9d684240dd05e47e8
-https://downloads.cursor.com/production/6a1a6fbc55483584e7022f491c8a167ccac86f22/darwin/x64/Cursor-darwin-x64.dmg
-sha256:1655d4adf50ab54f1eb9f3be30b89e2b214dc51f1e8e275222d5c3e89065bc2b
-https://downloads.cursor.com/production/6a1a6fbc55483584e7022f491c8a167ccac86f22/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:ed4bc3838568ac25a329563d6feb6a3c39b3549f03a598d9fe1487ebb8b92c30
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.6-6a1a6fbc55483584e7022f491c8a167ccac86f22.deb.glibc2.25-x86_64.AppImage
-sha256:b6cc9f1781c36b31357c32589ff665cbd49a07e89e027595de71a121cd0c5dc3
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.6-6a1a6fbc55483584e7022f491c8a167ccac86f22.deb.glibc2.28-aarch64.AppImage
-sha256:69a5c447815257684a9e39df4239116a3c17f07e006245b50d7d3e5a5cc79e63
-
-## 0.47.5
-https://downloads.cursor.com/production/53d6da1322f934a1058e7569ee0847b24879d18c/darwin/universal/Cursor-darwin-universal.dmg
-sha256:be9487f4a44d6aea94c2f2a5a72e1e76fbf273a93fc7049f8e1225213ecafe2f
-https://downloads.cursor.com/production/53d6da1322f934a1058e7569ee0847b24879d18c/darwin/x64/Cursor-darwin-x64.dmg
-sha256:518135939b282d22f60f0fb80326e0b8ecbc63eade975e5e36c924f5604cd4f6
-https://downloads.cursor.com/production/53d6da1322f934a1058e7569ee0847b24879d18c/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:89e8f2edd0eb8c68aad93dfc6b2b3330c8c1e345719390436deee0a8b7c535b3
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.5-53d6da1322f934a1058e7569ee0847b24879d18c.deb.glibc2.25-x86_64.AppImage
-sha256:6a3b3f5a4e684a2fb17f5cd60747ce089d12bee5b97b107a8e3efe0a3e6f583b
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.5-53d6da1322f934a1058e7569ee0847b24879d18c.deb.glibc2.28-aarch64.AppImage
-sha256:4ea51051b50f82a74517b2c731944554300a0e5d51b052fea14b775446cf36e8
-
-## 0.47.4
-https://downloads.cursor.com/production/8f8a2000673d2c48f6cac5eea2f3f9f2ed5e4ec2/darwin/universal/Cursor-darwin-universal.dmg
-sha256:c74d51fbef1d92def7cdd9778003305ee74b318707549ca63462d80b4b0a1679
-https://downloads.cursor.com/production/8f8a2000673d2c48f6cac5eea2f3f9f2ed5e4ec2/darwin/x64/Cursor-darwin-x64.dmg
-sha256:4c883112a06ea7c09e1ec80fdcf6e949a4749c509a5f56ce9d874015cfbae703
-https://downloads.cursor.com/production/8f8a2000673d2c48f6cac5eea2f3f9f2ed5e4ec2/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:45e9e3b26e3ed00a2b79f1d3fbdb0e102e58b656defa9b5f9f283a28aa576a8e
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.4-8f8a2000673d2c48f6cac5eea2f3f9f2ed5e4ec2.deb.glibc2.25-x86_64.AppImage
-sha256:782eb284fa07ea1e76684bf4e17bef1526f6807fa9fb8aa52d0b2b9f5a16173b
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.4-8f8a2000673d2c48f6cac5eea2f3f9f2ed5e4ec2.deb.glibc2.28-aarch64.AppImage
-sha256:05a439d0df6228cba0e47b0602355c14e9c6c0ea8e1c82a215fb564739523660
-
-## 0.47.3
-https://downloads.cursor.com/production/dab1538cd064aebd4292f9de48b05022c974aff6/darwin/universal/Cursor-darwin-universal.dmg
-sha256:c76d40221d7c9d2e5657b0969297f84063d885288c408a37576b2371b02554e5
-https://downloads.cursor.com/production/dab1538cd064aebd4292f9de48b05022c974aff6/darwin/x64/Cursor-darwin-x64.dmg
-sha256:bd7eda934564056db0ee304f47c50afe0b35009b7d4546b0c36bce15a03fb53e
-https://downloads.cursor.com/production/dab1538cd064aebd4292f9de48b05022c974aff6/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:96281bf6407a717fa82c06ec9fb44866830f30d66abf782e261ad9ed91cc680d
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.3-dab1538cd064aebd4292f9de48b05022c974aff6.deb.glibc2.25-x86_64.AppImage
-sha256:326e468bb3559248e90f6a34cd90602e98b60f82cd12e018133f519248835dc0
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.3-dab1538cd064aebd4292f9de48b05022c974aff6.deb.glibc2.28-aarch64.AppImage
-sha256:d561c6f36894eb2ccc82c200d0e0d7561a27f405cdfeb5e92a106eb1fd6b36a8
-
-## 0.47.2
-https://downloads.cursor.com/production/bed609aa4a57e9d82664006f152d3f77589eed10/darwin/universal/Cursor-darwin-universal.dmg
-sha256:9c1d591eadd8353ffab9d4d6693a535f02efd9bc730a0fbe5b69fa0e33ea2031
-https://downloads.cursor.com/production/bed609aa4a57e9d82664006f152d3f77589eed10/darwin/x64/Cursor-darwin-x64.dmg
-sha256:eaa669d471ad4ef56dc9b9aa66157db430922b420a9efb8735205fa6a734cd58
-https://downloads.cursor.com/production/bed609aa4a57e9d82664006f152d3f77589eed10/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:8e9fc934123f7d478c1b1fa97f8c1cc3c482aac8c9bd14a93d94f23e829c5d3e
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.2-bed609aa4a57e9d82664006f152d3f77589eed10.deb.glibc2.25-x86_64.AppImage
-sha256:f6af9e5e0b765c4cee5248c8bf46ef2900145f426a25f89d86283f0c355255d3
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.2-bed609aa4a57e9d82664006f152d3f77589eed10.deb.glibc2.28-aarch64.AppImage
-sha256:0e4879604791f6a6bc32cc505141ac682a765e9fcc512404ea4a56a68bad13c8
-
-## 0.47.1
-https://downloads.cursor.com/production/aafb3fe1326c939656bd06f325a9e17679aeec7f/darwin/universal/Cursor-darwin-universal.dmg
-sha256:e785c686fa9e2624e05448e0d80d3f0f8058a894ffc11cf12a25eb330c8660ad
-https://downloads.cursor.com/production/aafb3fe1326c939656bd06f325a9e17679aeec7f/darwin/x64/Cursor-darwin-x64.dmg
-sha256:faa8ccb8658606f8dd9af56307a74d95e122e461cdb89f1861d11779fda00017
-https://downloads.cursor.com/production/aafb3fe1326c939656bd06f325a9e17679aeec7f/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:e3e939a47fe0bf020ed024c79ee2e5ea0e1ba80ae5eb31c6a19567065b8a4b8c
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.1-aafb3fe1326c939656bd06f325a9e17679aeec7f.deb.glibc2.25-x86_64.AppImage
-sha256:da78965366de260978da6fb41609bf6338a46f8efa21e57e31de73884b95d50b
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.1-aafb3fe1326c939656bd06f325a9e17679aeec7f.deb.glibc2.28-aarch64.AppImage
-sha256:b9d2f9f42558396ab3888b1b48f1960e9f84a852876c50b7bb82e2ecf4bc1fd4
-
-## 0.47.0
-https://downloads.cursor.com/production/4a602340d7b014d700647120bae9079607f2ae9b/darwin/universal/Cursor-darwin-universal.dmg
-sha256:c0d418d47cb0cf3e0665c38757328ab4e5cf3ce13605800edd3c926ad8111032
-https://downloads.cursor.com/production/4a602340d7b014d700647120bae9079607f2ae9b/darwin/x64/Cursor-darwin-x64.dmg
-sha256:28adeea5dd6495fe1e33da37dbfa9cf1ff75df3e964731e7d66ebacd811e726c
-https://downloads.cursor.com/production/4a602340d7b014d700647120bae9079607f2ae9b/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:ea74a96fce88d1bbf962140dc5143a72a7dde56a35cf05311bb1e8c14bd268ba
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.47.0-4a602340d7b014d700647120bae9079607f2ae9b.deb.glibc2.25-x86_64.AppImage
-sha256:4d1f535f89d91ce0cf5ae22458453381eaf92ed7b71b6b5059313831ac549fee
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.47.0-4a602340d7b014d700647120bae9079607f2ae9b.deb.glibc2.28-aarch64.AppImage
-sha256:d56eca585a382b34428c1a22bbb5fc4bec7a9938526af1acd873e451ad29f441
+## 0.45.15
+https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/universal/Cursor-darwin-universal.dmg
+sha256:b4b0749fa725d641f2c2712d47b6ceb4d5c2815707a25cbe7f832db8a3cfad30
+https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/x64/Cursor-darwin-x64.dmg
+sha256:831f36f89b4232caef9ceab96d9943d37fa565addb9685891156f243a74e257b
+https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/arm64/Cursor-darwin-arm64.dmg
+sha256:d56aa61f37e34910142e802a48f277ea6eca99b50959f48e0f0ab43392e67ac5
+https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.25-x86_64.AppImage
+sha256:c1d603e358dd2cb9971bb77b266d7f43d74524cd1c2ae90b7d05c6bd9f3461d5
+https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.28-aarch64.AppImage
+sha256:019de449a1fd169fe8888f1a56aa316e31151c06289918163a240dcd98407a5b
 
