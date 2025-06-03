@@ -1,168 +1,708 @@
-## 0.46.11
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/universal/Cursor-darwin-universal.dmg
-sha256:42698623c59ce9547e9831289050ac1c322cb131e42e1f69a45060f1bce3b7ca
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/x64/Cursor-darwin-x64.dmg
-sha256:88b1c8622e4c6f9f0a79625eb8603b25e4f89f22d38e0cf2f0609ce2c98d650a
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:011e792ab1441b754e8f5c7f77caa6f36997ae5332e20ccec30999d516f04d2d
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
-sha256:25191161e875de4dd97872eb70b643c8ccd961fe3046c76a9b6ec7695e5ac05c
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.28-aarch64.AppImage
-sha256:a0261d3efd10d95f6faf763900aac6403bf1414dec4c043ed5a19af49f1c804f
+## 0.45.14
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.14%20-%20Build%20250219jnihavxsz-x64.dmg
+sha256:3720d8ef83d98d28e9b9349568efe5f5a74f70b5f5932b72ac51908c9ffc59c4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.14%20-%20Build%20250219jnihavxsz-arm64.dmg
+sha256:039d374f10c314436a327735872fe530cc88802ed8c304583c9cbeb69eb8f448
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-x86_64.AppImage
+sha256:e4c196262f133fed778d97fa60c314539b9863fdce053171b46a62aef823f192
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-amd64.deb
+sha256:a1356cb9986125e971a628cd94aca03c3513e297a99ce3f2720da5aba1b81a80
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-x86_64.rpm
+sha256:aae77516dcf2ed7b0c5fa2210b960c50ef6fafa3847c49cb35f3717c3bbdba29
 
-## 0.46.10
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/universal/Cursor-darwin-universal.dmg
-sha256:21e83be8926de138229c7ff2510615788bcb9c01ef0e06698b095317af33d8ac
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/x64/Cursor-darwin-x64.dmg
-sha256:bab32f209ba7e9771a73bbdfb0d4d36b12db750dcf1b1b6b09ef3cfd15cfc4e1
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:adf0bc51d01f173871f5e36c773f817371a71121ddb2a1656860681becb566ee
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.25-x86_64.AppImage
-sha256:0c171d9f9e24a9e8675877e3fa75d32323ddc71d1364b63f343c7f55851bc787
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.28-aarch64.AppImage
-sha256:ebc7c9ae6aeb0acc5518fa5c968ac119cb43473aecfc9538ce017d715956c5a5
+## 0.45.12
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.12%20-%20Build%202502180s4ios0dk-x64.dmg
+sha256:4202ec2f47a6b9de2650dbe9e48960ca46603198f860a4c3a4bcd68d61e65849
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.12%20-%20Build%202502180s4ios0dk-arm64.dmg
+sha256:875a46ef019f7e60727658137d12b08f73cf63a9f5a6b5b85c337f417b29f9f1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-x86_64.AppImage
+sha256:5e2587e469dfa2c5704af087d7ddc3d3baf2f265bafb54823332c3417d4a2191
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-amd64.deb
+sha256:cad6ce19e8cd8890312bda52d0e48e8868879e7b25d17c01f3ddb08b0a3f6b07
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-x86_64.rpm
+sha256:82cd34970b1fa8044f5547ce3c5851ffc23e27bd9bc111d23e92ed2a01cca7e4
 
-## 0.46.9
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/universal/Cursor-darwin-universal.dmg
-sha256:a4ba4a1ae9aaf000325b48fcacc6630fb278f8fc1e637c2bf42e81b5ddde38c7
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/x64/Cursor-darwin-x64.dmg
-sha256:2bdf6dbeb6db2a6096aa45e19169131dff87f2d641005bb2fa44eab3b4083f40
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:fa4f050f7d25862d6af065d6bb9ba98799a2808522f18e7205ba10c4c41c5588
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.25-x86_64.AppImage
-sha256:19b945b892f6c7e548b28f2f2bf4d1e377ab1353b44e97c000d03291f24118d0
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.28-aarch64.AppImage
-sha256:c8592071245c9f85d50b662a36098cc11ed7f00ccf9f6cc1ab089a2652407a1b
+## 0.45.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.11%20-%20Build%20250207y6nbaw5qc-x64.dmg
+sha256:55e8635f499c9e005e51d11b901e95a6efa67135f2f58021ec12c03352bd2be6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.11%20-%20Build%20250207y6nbaw5qc-arm64.dmg
+sha256:55e46ba17ba126c4a7945f18b3c0a3b0d444d0b01480e1cf31d755167f1c22d2
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-x86_64.AppImage
+sha256:9294b860796ff42ddeec49b8c82978612f6736034da4cb12c9798c953dbd8422
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-amd64.deb
+sha256:648ef9d1b890301932fbde73bf42bcabfe264241c2962bd044b9fed9188384a1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-x86_64.rpm
+sha256:4967f3844b5819c71326ea6e9da4ac7bca65a32cdfd2e1cdb559396d96bc8adb
 
-## 0.46.8
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/universal/Cursor-darwin-universal.dmg
-sha256:cd0b7cbb5c96b82acf279a6432b121f6802c4914b44be1cb8319d16f45f7176c
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/x64/Cursor-darwin-x64.dmg
-sha256:adb8d6d1c0362cf315b1d34ce6ee0109ca53d5846687c70a85228ae6e4e135e1
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:eaeba4aa6de1b3cbc276115a6bc371d0779d6339190114a389753b2431ab586b
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.25-x86_64.AppImage
-sha256:84d1b63e99919c1bc85e8b51b99e4fa8e68e54f9fbe62c44dd85e151d88a429f
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.28-aarch64.AppImage
-sha256:b1bc70ed7a5f3913bc3fe043fe7cd250125ec3e56e591d608af1984bea7f16f1
+## 0.45.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.10%20-%20Build%20250205buadkzpea-x64.dmg
+sha256:e8c12e321bf761607dc676bdb45d74eaa88cfd3702ffbb4e3392271a4cef2ad6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.10%20-%20Build%20250205buadkzpea-arm64.dmg
+sha256:db81d184ab462a1c64800c05548afa04d0bf1289fcb7e58740619773b9b934c8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-x86_64.AppImage
+sha256:564f292516ce1050fb5f46d96741c905a2aafea9b29b8765a2202eda3fd91078
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-amd64.deb
+sha256:bd9989efdcd67f07455bbcfd1a1c8d4df63c5883ae1410518c8a524d62d22b82
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-x86_64.rpm
+sha256:d573148e1618f23ff633fa92f3f04464107ba755ceb551418c69a715ab0ee5de
 
-## 0.46.7
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/universal/Cursor-darwin-universal.dmg
-sha256:8008415bce0ff0dcc60af8e94073ba0d5affd8b8466e8ef4eb2309ab93b6a9c6
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/x64/Cursor-darwin-x64.dmg
-sha256:9f5b3db70dce1efdaa137312d4b1d713a64f3472d5a1043aa4615e3a33476437
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:d7142f7790f1a2178a12229f291bdd48104b12e8f7e528b238dff8c6107a6e32
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.25-x86_64.AppImage
-sha256:9be579cb17096710ee03ed08871cc747d69a6afd5abd8ea1bfed2a5ce8b70422
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.28-aarch64.AppImage
-sha256:3dfbd35b38738d78dc20c4541cc97b35f5478cc10f9b0d766f93dcde648ace9d
+## 0.45.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.9%20-%20Build%20250202tgstl42dt-x64.dmg
+sha256:99eef430b5621d1c16e158e38591deb6a2bf23463061d8fada94abedf7e80118
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.9%20-%20Build%20250202tgstl42dt-arm64.dmg
+sha256:281bc21b4e7b6b0031feb82add653dd09ec62809d03d9afd3c248220b4894b57
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-x86_64.AppImage
+sha256:ad4e1e879e4dfcb78c000ab61629c05130003e5329a5dcfd23ff24679254b503
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-amd64.deb
+sha256:6676581a101c35df9192e40d3920930822b43a4bbb8df4c0f5c056a59ca602b9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-x86_64.rpm
+sha256:1be845f9e340d8b70f62c347d963d7b712a2b6b375608b01595c55449e8abaa8
 
-## 0.46.6
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/universal/Cursor-darwin-universal.dmg
-sha256:d9fb007130bc91f7fae6c7ffc05bb79cdf0e6c54197ae6211e962887b621b683
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/x64/Cursor-darwin-x64.dmg
-sha256:0181d38f285d44189796c3084a7d62fffb907de0f2095f2e683df34d5779ee5b
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:08812241f8efe4f1b9d0e2948fc4be43a64b23416970dec483ab74b2a019b85c
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.25-x86_64.AppImage
-sha256:608b3f4e81d14c182a5d2bd4992ff7446b58a0d61767f87131023961096f0109
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.28-aarch64.AppImage
-sha256:f87e130424045bf2a4be8d35104709a23a7ff3d66bfd130bfb8d714a51c13daa
+## 0.45.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.8%20-%20Build%20250201b44xw1x2k-x64.dmg
+sha256:52ac33831052651d22b429272b30429445f7c3d68528584622255440d6035443
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.8%20-%20Build%20250201b44xw1x2k-arm64.dmg
+sha256:0145b5f71245b2b0c6494344fdbc240b668dd90c9a4be24a0a3bb1c7ffe46e22
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-x86_64.AppImage
+sha256:1fef5c8ac6b52d62657aacf0681d162332698a8619c9f2e085e95c66d8423af8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-amd64.deb
+sha256:f9f5c5a4c04164fb87e16730cd9560aeb5ef8782d3c1acfac6250255312603a0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-x86_64.rpm
+sha256:5cfa38180ca449038c3d3b54e5a04ebcd854101a9c024a16f318d6e3448fe19e
 
-## 0.46.5
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/universal/Cursor-darwin-universal.dmg
-sha256:0dbdb4bdae4c7984fe023f9b636367d08cdf3f77d154ef69ded58a7a20431925
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/x64/Cursor-darwin-x64.dmg
-sha256:ed25165605b26187acd78b93affe01feeb1dc251cf9acb26e5aea9f5b39e871a
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:d5c5697bc4a0e887c17d785747d09bd37d2923c14841ed23177d46caaf4361e5
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.25-x86_64.AppImage
-sha256:c0c56b74512bf4745e3eae2dee1c9943887ac0f3c75c61f400b0804fab87ecdd
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.28-aarch64.AppImage
-sha256:873c58f1dd2522427e317dcb2abdaa83778467da5ceae1e4f6c362859d482f6b
+## 0.45.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.7%20-%20Build%20250130nr6eorv84-x64.dmg
+sha256:f3d5300dec9e9c14a8b251ce85a38b9827ab2c34bab2bf53b027e793561f46d4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.7%20-%20Build%20250130nr6eorv84-arm64.dmg
+sha256:ed5db13517ec39efa99e8682dfd47644d1b6b219795691b73c0c5b21d060616e
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-x86_64.AppImage
+sha256:5fffba2ed273509eacc7ae5a80e6047db56a9ad6a499cf7123a6ad5474ee335a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-amd64.deb
+sha256:7bc73c7537a33660d7b29613840041b58975ad0239169d3f55adedc859284eb7
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-x86_64.rpm
+sha256:5aeeff691bb1ea27f40ea9d528a17a155a1e1e45c5f78a577b6ae915663649f6
 
-## 0.46.4
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/universal/Cursor-darwin-universal.dmg
-sha256:d21e37b6507681d7b695c3ed398820c2a1b17338f6673ec26fd84710195cc7c7
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/x64/Cursor-darwin-x64.dmg
-sha256:d159c511d7c8dc7d04129b9a9d009f3a3c8c44f8c0f0bf0b3e2dbe3c95260098
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:2e4a2c4e040912b7b6510672f6a9a35136b83bf5d9b5cf5614bb8641c2e5db59
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.25-x86_64.AppImage
-sha256:2aac74a21f1aec26c17fed1708d21d0de1b620b7b37769352c38ae060048417a
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.28-aarch64.AppImage
-sha256:764789a07af2fff6a24ab92ca34a39cb15d95178a1fb49fe083c94a0e369b026
+## 0.45.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.6%20-%20Build%2025013021lv9say3-x64.dmg
+sha256:fad0350cd8df87fb60f99aed2fb9b5b10b105727a4baace0564f5f1409822091
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.6%20-%20Build%2025013021lv9say3-arm64.dmg
+sha256:8e250de3f6b07837fc67104d95fb0da0bb32dd74bccf85cb1fb84a5d62f83c64
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-x86_64.AppImage
+sha256:ac06d7ab7af3f57584b247dee8c2ba0839f0cf6c22f77df94e23f0e4ec317b76
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-amd64.deb
+sha256:5bda6ff0f52c93126667e7d7cc41e2828bcc7a3de29ae9ac8fd4522676680348
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-x86_64.rpm
+sha256:6d8821fe5da8199bff71d64418181b7c22805a7fa419427ac63b2b67cc583e8d
 
-## 0.46.3
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/universal/Cursor-darwin-universal.dmg
-sha256:f367a02a8cd02532c5a62966e9386626ddfe60d00be57ff22837cdf8e9da7282
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/x64/Cursor-darwin-x64.dmg
-sha256:d3fe65777e4577e56d89d7506fca99be27e08cbbebd75f81df398568e0e47780
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:9d5ab83231bb0493a355d38964930e8de785db3b23fab6a97d3e360efd410d2b
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.25-x86_64.AppImage
-sha256:0a56c62ff56fa59ae6a4af31e4216ab7b602e2cc9b8f5f11b4d2a7c9d8ad9e12
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.28-aarch64.AppImage
-sha256:a4c1a67ff2212a5b8be2e54c68e680f22c1b7ed1213545c19d25e4442afd43e2
+## 0.45.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.5%20-%20Build%20250128loaeyulq8-x64.dmg
+sha256:d38617276458ad8f04ed5fdf1566b811f05e828afbd33b1f633c031d4a700c1f
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.5%20-%20Build%20250128loaeyulq8-arm64.dmg
+sha256:d36e81eae5806bf34412b42a2cc52af3dd13b52dd9088496b8612f28b1ec5855
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-x86_64.AppImage
+sha256:ebe789233d188b3af0ed000ae830dc491891fd3f5e8d31e27cea1547bd7734b0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-amd64.deb
+sha256:4e45d9f1aec0068a6d8517d7b9c8c3e5cb71d5f9250a9f70e63ec4a387a8f3a4
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-x86_64.rpm
+sha256:21fc810cf048e939e3b6ea21472236600bba8212e50f612d770d4beb775f8832
 
-## 0.46.2
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/universal/Cursor-darwin-universal.dmg
-sha256:1bf8a208da85300d0a4584d12764a62f87bbef2a26bad5f6e9f7462103542e44
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/x64/Cursor-darwin-x64.dmg
-sha256:87a2ad7d372f9deed4bc4a3f7fb51e436545fc20d990b35bc9ab3fcb9dae1c4a
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:098737574b989815649682b14f7e8bfeeb8abe68b5e267a109b4b4f2b4154642
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.25-x86_64.AppImage
-sha256:83883d05f7d925175d155ae7462f6377dd6cf37e585839e091fdabe200e7dcb1
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.28-aarch64.AppImage
-sha256:bf5c637836adc4d6c4567299483f1d9321363c9053e2776b0a4bba4d30a691b4
+## 0.45.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.4%20-%20Build%20250126vgr3vztvj-x64.dmg
+sha256:763a4921e885c953b18f78402a52ec3e26c3d9704d89ac41a7c62db55141ec48
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.4%20-%20Build%20250126vgr3vztvj-arm64.dmg
+sha256:933431b01064622b2269c865b63edde4a733cc31a26b54a929b95773fd486e8e
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-x86_64.AppImage
+sha256:6f51d0ae1aaeb083a361cbc7ab248a507e8455d2f01b888fe943a9f5e0940f53
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-amd64.deb
+sha256:258fb94bfff2974cb7ee7e468e739c8234b537cd8745000dc8990a1d0f6cb6fa
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-x86_64.rpm
+sha256:5915d8a0b7856961175ccc98732a91601c7f726f62b641b4746cc2e1391f607f
 
-## 0.46.1
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/universal/Cursor-darwin-universal.dmg
-sha256:b8108a782319526fc58e94ad97eedb0d21d51dbc169f77b9d865984e00405362
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/x64/Cursor-darwin-x64.dmg
-sha256:85d363b78de2a1a04dc4ca81df6c5eac61e3b6065d1e6ef659511354f2a599ec
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:1d3056935ac85e68fde5477e6158ef26d2416f4c6bc7f0d4faaedfaa95da28bf
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.25-x86_64.AppImage
-sha256:ccffa999f373d8e5c9066688f9c13be65346b821b8bdec788ab3c20b772664e4
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.28-aarch64.AppImage
-sha256:a960dbf79d4a0d1386b5d108bc204c2cb88f4ec38ee876c62cb0ae4f9ca5831f
+## 0.45.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.3%20-%20Build%20250124b0rcj0qql-x64.dmg
+sha256:8c5639377bd82a2ed1c51c0eeea1c32869aa02d5422f223a3b89583211aaa5d7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.3%20-%20Build%20250124b0rcj0qql-arm64.dmg
+sha256:99ce6e8d40858b0848fbedb273831a6aee30384bcf0ad71f8e32b7dc9e99e27b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-x86_64.AppImage
+sha256:f840405e03e3f7eb4a27a9661efccdf9323aae2f18b284b489907b8ab67e6660
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-amd64.deb
+sha256:aa12b02d097116969f0e3f471392c6165054896efa91c3a3317b265b1a742b0d
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-x86_64.rpm
+sha256:9aafe95d923bb3a004b30f52c71efda99b5af7a9b77d56b5eaf3ba262016ffb5
 
-## 0.46.0
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/universal/Cursor-darwin-universal.dmg
-sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/x64/Cursor-darwin-x64.dmg
-sha256:76b2e58829412679cf2c34e21d83084cd1f619ca11a98282482d6e2e7db16500
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:6d0ab43a26104e029e2120c7e3492112e315557793eb21f139bd394dbea80d65
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.25-x86_64.AppImage
-sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.28-aarch64.AppImage
-sha256:下载失败 - 403 Client Error: Forbidden for url: https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.28-aarch64.AppImage
+## 0.45.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.2%20-%20Build%20250123mhituoa6o-x64.dmg
+sha256:36946753412f64af98c7f0017d8e1a483daba3b1baf7f2fc8b5fe080152232cf
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.2%20-%20Build%20250123mhituoa6o-arm64.dmg
+sha256:49b7441c16b755fd3e22f9a7833c4f55caadf5fe4315c8942ceb8d3d265a5d3e
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-x86_64.AppImage
+sha256:2b8f548fd39fc6cf894fcf836f944b95564ce80a93d6b97cb331bc92a8beae96
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-amd64.deb
+sha256:28a12e610ac08ecbf724e52e4feb3d0286363b36b752c927348692a35c803d94
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-x86_64.rpm
+sha256:42b150c486bc3f1e96f8dce8c6573c14e30ed046954f409965a52462626c985c
 
-## 0.45.17
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/universal/Cursor-darwin-universal.dmg
-sha256:10aa3733f8ed1d9bd18a16fa78e1ab270013eca3b3b3d335e1b08fd4f0632d6a
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/x64/Cursor-darwin-x64.dmg
-sha256:ab16776c890da813d5cc7c61a07ee323a3934db1616dceafe26df40bbb428b56
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:b5fd5fd6b6b1202ae79802a29f2ffff5c9a31596130372127a910dbe1771f94f
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.25-x86_64.AppImage
-sha256:b48b5df9c72e8383446e3a68c938fa3697be6de846b4c0a517ab2f991c2f3716
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.28-aarch64.AppImage
-sha256:5059d21f9a3c8c1276f9200841d4f414ce3c92f1fb37f4105f870c126ec8d84d
+## 0.45.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.1%20-%20Build%202501213ljml5byg-x64.dmg
+sha256:633c91ec5b6ad948c53ca6e58a3d29dde3f4cf7187fe8efe67cea7432ddc0b90
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.1%20-%20Build%202501213ljml5byg-arm64.dmg
+sha256:e8fe6c7f717db75210d91686f338022972f324266c28b59aaece4616f573bab3
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-x86_64.AppImage
+sha256:9bbac11c55446ceeefe56bddec3894d8c1c565eff41bc68b0174a19d244f24f8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-amd64.deb
+sha256:5037110da64b3ab82886908820b32e244f25f92f2b00a36ea1ab3de4f22b9aef
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-x86_64.rpm
+sha256:a707d94cd85e64ea81b89c0b0f94d7e0fd915bd5981a79ed574e9b0bde5a5272
 
-## 0.45.15
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/universal/Cursor-darwin-universal.dmg
-sha256:b4b0749fa725d641f2c2712d47b6ceb4d5c2815707a25cbe7f832db8a3cfad30
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/x64/Cursor-darwin-x64.dmg
-sha256:831f36f89b4232caef9ceab96d9943d37fa565addb9685891156f243a74e257b
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/arm64/Cursor-darwin-arm64.dmg
-sha256:d56aa61f37e34910142e802a48f277ea6eca99b50959f48e0f0ab43392e67ac5
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.25-x86_64.AppImage
-sha256:c1d603e358dd2cb9971bb77b266d7f43d74524cd1c2ae90b7d05c6bd9f3461d5
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.28-aarch64.AppImage
-sha256:019de449a1fd169fe8888f1a56aa316e31151c06289918163a240dcd98407a5b
+## 0.45.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.0%20-%20Build%20250120dh9ezx9pg-x64.dmg
+sha256:8661c4324aec9a6009e28e517782f4416643dcdac46430f4465bbd02e3e9904e
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.0%20-%20Build%20250120dh9ezx9pg-arm64.dmg
+sha256:aa04576e446d5855b87c0eee16815b4e483e5389f9b6f71c4d4570966bdb9bcf
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-x86_64.AppImage
+sha256:5b85cd44ea49732041f7e16c9f5cc1a344ab725f9270fdfde07e7c919044df86
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-amd64.deb
+sha256:1d052876c9bd5354b95700a7bf65d92c72d010d74737e8e87d0505fac4e96f09
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-x86_64.rpm
+sha256:6fa9cf1ef8972b40869117da1b1ae8aac026273c70f5ee9f2db7cb9c573a3b6b
+
+## 0.44.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.dmg
+sha256:24a3c295c503d96dca5919514e898317814e380d430f0de2010f881fbc9a9fe1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.11%20-%20Build%20250103fqxdt5u9z-arm64.dmg
+sha256:d070e74587f2fa3289cb976f6ae95073302816a62618659c76122468566a10f0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-x86_64.AppImage
+sha256:78e66ea1f9e9103f45eb089cd12f66f77dd36fb1aaedc6ffbf49110e5b6f1558
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-amd64.deb
+sha256:120a5160b6d643173208b2c11e60d80bb9dfa7ce5c4c7c5c2576e1a6a50d2b26
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-x86_64.rpm
+sha256:90fd1abfed1ff96b447c99168cc12e63ef3f6ba0e93108307b4ab28246b1829e
+
+## 0.44.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.10%20-%20Build%20250102ys80vtnud-x64.dmg
+sha256:1ebf6f2c7402379c00d18e04887d344d39cda60e70645282bf98f8c56d60d9b5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.10%20-%20Build%20250102ys80vtnud-arm64.dmg
+sha256:f2acce3bf171d8252fe6876bd1575957b62b930cb929d24ff30bd9ed1fb9d15b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-x86_64.AppImage
+sha256:6d8104cd326c4ab3ea097fd6ee7fa9951f89cc30ce6f02bc71b8e38478e6357b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-amd64.deb
+sha256:eda66d3cce0a5762243a836e6947ebd8b966796fa429215bc0e6ceb010a77008
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-x86_64.rpm
+sha256:73815a5ac82ee33eb42a7d46276b187367d7f82def74e89321a432082bb2eabc
+
+## 0.44.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.9%20-%20Build%202412268nc6pfzgo-x64.dmg
+sha256:c21c3fe9ce72dce579a631f911cd72e4acec94257595dd9098023dc7968683a5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.9%20-%20Build%202412268nc6pfzgo-arm64.dmg
+sha256:4f2b38448212a6d97a8951a4cdbca072d47f2d597b7e2ec1e0a0796e1df35be4
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-x86_64.AppImage
+sha256:0d5e0e9b9780b7b8430cfb320b08402c6847dfa6007ef0e4e6ef0c9e585a96cc
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-amd64.deb
+sha256:8332814f6f70502e8121d8452ec11eed82879d03391b54c8eea66bd25854c1b4
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-x86_64.rpm
+sha256:52b56fae3d28ee2c15a8eb6f9d9e8c9524f1b02286f50e28a20bd2f2ce4bcbfd
+
+## 0.44.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.8%20-%20Build%20241222ooktny8mh-x64.dmg
+sha256:f2f39586ace4fa303bf266854503a498c7c996fd9b2fe7a8a883607913e362b1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.8%20-%20Build%20241222ooktny8mh-arm64.dmg
+sha256:1bb29e4eee332fa2636c798153f7072ed1302b6d9b1713c1031f6ba9fad1d93a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-x86_64.AppImage
+sha256:e4514a417bcbd17b1dff353f4170f0818134884168c9b321bebdda6019e525b9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-amd64.deb
+sha256:0f6882914996c1231b2e819b4595638f445ec8c290b59dbb33d03f6dddabf0a1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-x86_64.rpm
+sha256:6d7b6a8fac5d15e57bd40c521d9880261eb05af98d6dfe821488c9bb21dedce5
+
+## 0.44.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.7%20-%20Build%202412219nhracv01-x64.dmg
+sha256:2fe6da1f843aa4e02b57927c4d343b60422cae2fe6ddff950e16345ad1efc652
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.7%20-%20Build%202412219nhracv01-arm64.dmg
+sha256:841bc71e42b8ede102ac2ce13cbce3f0acf99aa1ee7c7d44818cb5bf187a4194
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-x86_64.AppImage
+sha256:9beaaf73f9650ca2bbafb9317c91ec51d4a760a976fe3f797f1f0d21f4096e33
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-x86_64.rpm
+
+## 0.44.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.6%20-%20Build%202412214pmryneua-x64.dmg
+sha256:b81639247cfbd74c8bba50ed957db2207edbcda7e37d71ab386db3cb33a09bf7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.6%20-%20Build%202412214pmryneua-arm64.dmg
+sha256:3b23f14bf19405a807ec43305cb0a5f75411d8285b6228786277eeceb6003a58
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-x86_64.AppImage
+sha256:920b2c4d8dced2686c60b4901d6d0b31c069f45d4be75fd4a18dd3871388313d
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-x86_64.rpm
+
+## 0.44.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.5%20-%20Build%20241220s3ux0e1tv-x64.dmg
+sha256:69c513508aa9ee1bc5e7f9ac50b2a84b05de31610ee72585587ef61e5de4826d
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.5%20-%20Build%20241220s3ux0e1tv-arm64.dmg
+sha256:0449ec9f0b918e42f8e10e492fa6960dc8b2b79da9ec1c8f5f27a4ca9bd4ec97
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-x86_64.AppImage
+sha256:e486c8b0ec89748cc3a7139df822def147716a8709149724899bcd4ae197b72b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-x86_64.rpm
+
+## 0.44.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.4%20-%20Build%20241219117fcvexy-x64.dmg
+sha256:a85f01a8d7503c822fb0af6f0684fd9c731ff58ab92530477fb4c1209a1b6b8c
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.4%20-%20Build%20241219117fcvexy-arm64.dmg
+sha256:c6662422832afd22d433dbf5818177a60749403fce364b3fe8d5f4a0c6cb4de1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-x86_64.AppImage
+sha256:67bf2c7c16c8cac7793a040867eb46d030206e108e5fe18097da344cb5747db5
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-x86_64.rpm
+
+## 0.44.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.3%20-%20Build%20241218sybfbogmq-x64.dmg
+sha256:89b562a1daa2cd87659d1c89a5446c9cdc8dc1cbc0a585dc1d079da577e230de
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.3%20-%20Build%20241218sybfbogmq-arm64.dmg
+sha256:5a051a5b34b89a1362ccf0db045c552912c39165af9cb98f2bdfdba53a28a199
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-x86_64.AppImage
+sha256:db169dc18afc5933169c892685c7dd38fafc8a73702bbb7500b6aaf82554ce4f
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-x86_64.rpm
+
+## 0.44.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.2%20-%20Build%20241218ntls52u8v-x64.dmg
+sha256:63719891e5ae764a5ce6581aaa5a40fb6dd5ced48d7561185fe139b85df5e9eb
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.2%20-%20Build%20241218ntls52u8v-arm64.dmg
+sha256:c5318cb0317fd71c2b84d8d322819a4acb70aa03c1a002eb6ef11b740514d747
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-x86_64.AppImage
+sha256:649f4ca4272c6770e87fb0e1e4936af93048b5aae854b42a39da353a89d0613f
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-x86_64.rpm
+
+## 0.44.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-x64.dmg
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-arm64.dmg
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.AppImage
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.rpm
+
+## 0.44.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.0%20-%20Build%202412187f9v0nffu-x64.dmg
+sha256:cc9dfb9a69cb088e1fcc7d4a36ab16098e229a3c0ba2e21d9e5454a92dce6c74
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.0%20-%20Build%202412187f9v0nffu-arm64.dmg
+sha256:c5601dc301e06313624383400690ed57c8857609e27a70214b99f2e43feb06bd
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-x86_64.AppImage
+sha256:8ccd952a0f59c78b0da96b4d81d062895f384f92a4c84c62d0affb3ffba20f7d
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-x86_64.rpm
+
+## 0.43.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.6%20-%20Build%20241206z7j6me2e2-x64.dmg
+sha256:9caccbd77579efa524f8a79f3a04fa336676fd0ebb04e807c4b8c32897b498c8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.6%20-%20Build%20241206z7j6me2e2-arm64.dmg
+sha256:74e1e97c64c35173270f6d9523b6794072ea46bdaaa7d2b3895b8b5194a23d16
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.AppImage
+sha256:69d1320c4c46bf1c29bc04f4a988827ef92920d3fd049e9af8b4b040743f1ff5
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.rpm
+
+## 0.43.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.5%20-%20Build%20241127pdg4cnbu2-x64.dmg
+sha256:d0057110a132813e5139ce7c3f6f8416d98231761626cd3b0041188307af5a56
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.5%20-%20Build%20241127pdg4cnbu2-arm64.dmg
+sha256:b028c7dcea8e0dbe169d12bdda7425acd0b63259ed7458f39f66de8b8bc51c1a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-x86_64.AppImage
+sha256:7035d812559443027f7ddf4faccb392846e377d37799bd5bf5fd64a9addb8a5d
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-x86_64.rpm
+
+## 0.43.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.4%20-%20Build%20241126w13goyvrs-x64.dmg
+sha256:c43cfc7d39e97605b24b8392761e66b7a93d09dbc36c96242435b5abda6d5861
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.4%20-%20Build%20241126w13goyvrs-arm64.dmg
+sha256:527284202984d4bb3a91478ae052360fc4c2f65802984c3ed9250be9686490eb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-x86_64.AppImage
+sha256:e5fd5159c89fb683fdfae65f53e8df62959bb28d0a52f7299b070da0898fd3a0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-x86_64.rpm
+
+## 0.43.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.3%20-%20Build%202411246yqzx1jmm-x64.dmg
+sha256:4a4d6ede381bb77954f709dfa8e9728f4262ab0fa50e0a4c802d00b7c04977d6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.3%20-%20Build%202411246yqzx1jmm-arm64.dmg
+sha256:79738ee09f7275759a7e07367a5812b8a810631dc1b5629a44216a7aabc080f1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-x86_64.AppImage
+sha256:18ad03171066bbdeda2bfb242a2f96fd3df130d6791df2a7ebb6a7ed35d0fa06
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-x86_64.rpm
+
+## 0.43.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.1%20-%20Build%20241124gsiwb66nc-x64.dmg
+sha256:775f83975cab3ecaae9172f738d59c1745ddb60a0023d6d951e264aac0050053
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.1%20-%20Build%20241124gsiwb66nc-arm64.dmg
+sha256:784602b4211b8f22fc0b416fbb4a4bfef16f37bf278ecbe1699881ff76f7767f
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-x86_64.AppImage
+sha256:4bd7589d20d0ecdf35c9c28fd42c7df70e56b4d5f7be937dc4f7b2a3122ba81c
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-x86_64.rpm
+
+## 0.43.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.0%20-%20Build%2024112423a8e6ct7-x64.dmg
+sha256:6aae9ffbeb33667036016a6df1f4b6c504d90317dc2cd4b25d77b47f714cf2a5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.0%20-%20Build%2024112423a8e6ct7-arm64.dmg
+sha256:93c655e9a607642b8f14f28cc729bfed43fe9792171e3e73bd8e3a8f17827049
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-x86_64.AppImage
+sha256:21c0145c648c1f119de4093871803dff661883c500f9c4411a09ceba90ee457b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-x86_64.rpm
+
+## 0.42.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.5%20-%20Build%2024111460bf2loz1-x64.dmg
+sha256:7bdab0b2ed5ea30684fe769f965196957c5bb84df41602f50af27c06a9de6b2b
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.5%20-%20Build%2024111460bf2loz1-arm64.dmg
+sha256:d37be3cfd0d7610d0e2fa6acca9ffe715f9a3db1a92e55f33fb4e304220e3028
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-x86_64.AppImage
+sha256:7ebd8fe0d6ba26f9a187b140e4920bc6b9a6f307c8ec0776f8815e26bc42b662
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-x86_64.rpm
+
+## 0.42.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.4%20-%20Build%202410291z3bdg1dy-x64.dmg
+sha256:a7a9b2f2df88fa27aad337cca613cf8a00c293e4273a5acad5cd9047234448da
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.4%20-%20Build%202410291z3bdg1dy-arm64.dmg
+sha256:68a74718a093f0633caf54eeea61ec230aed60518a62db862ad2542f5cbdd0f3
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-x86_64.AppImage
+sha256:083e9b4384fc0e12627623b13518110cbe286df119c7b8673b4568b556fa9437
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-x86_64.rpm
+
+## 0.42.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.3%20-%20Build%20241016kxu9umuir-x64.dmg
+sha256:9d43e9fe4047ab136e37824952a4e491df48a66f071f72a3028d9e4da06abbeb
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.3%20-%20Build%20241016kxu9umuir-arm64.dmg
+sha256:a6a0ba8fe0d34ed7d1559eb4a46ae5ce35cba1f62c20f166ddd4f1958898880e
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-x86_64.AppImage
+sha256:1969229419695ee6defff8dbc518e62898d8726078da784c63c2b43a092fb700
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-x86_64.rpm
+
+## 0.42.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.2%20-%20Build%202410127mj66lvaq-x64.dmg
+sha256:fa97cb336136091e28593098e64e53b3b13fd67d95e725e58548bc1c54666e97
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.2%20-%20Build%202410127mj66lvaq-arm64.dmg
+sha256:0b9b8702265112776126190482eefe593a0d0eef634a10655588c0e840d30779
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-x86_64.AppImage
+sha256:1c367c8bff3aa993aaaec05c31b81e5c6b59e619907de0c2aaff6c7014f57da9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-x86_64.rpm
+
+## 0.42.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.1%20-%20Build%20241011i66p9fuvm-x64.dmg
+sha256:28a6c46fb78a01b28ff002dc95d50b92b5039c88a3a4b8176a03c4128b1aa39b
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.1%20-%20Build%20241011i66p9fuvm-arm64.dmg
+sha256:fdd64a57b0608c5fffff01981c1623cc0259d6d9dd85270c87d6e88b735cc95a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-x86_64.AppImage
+sha256:a37942cc3486ff51b625e78c21c1d9ca2512823c5279025e0fa1c9094f1a51ce
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-x86_64.rpm
+
+## 0.42.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.0%20-%20Build%20241009fij7nohn5-x64.dmg
+sha256:f7aee41f612a40f199fe85e4704a151f4c1c2181f03a882640946dab1ba7802a
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.0%20-%20Build%20241009fij7nohn5-arm64.dmg
+sha256:2fc2eae7770fa5625cd2987beda6fadd135d500f8b79e32e29ebe8a3f8bb0ea1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-x86_64.AppImage
+sha256:e15f05d444980d1ae72d5aa1007219d712ad11afae1fa5542103f04b0d8714f9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-x86_64.rpm
+
+## 0.41.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.3%20-%20Build%20240925fkhcqg263-x64.dmg
+sha256:39deefd86327c0ac3392f4506b38eeca874632c48464c36cff71fa1c66a0f8c0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.3%20-%20Build%20240925fkhcqg263-arm64.dmg
+sha256:689cd6d519d0b13023e464e16751a1f757a66579af7d920a5ed1a5bd7d730b95
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-x86_64.AppImage
+sha256:5ad7f288d1a7527f20d474744d03f29f748c2668ea7bea2d0187b2a243083bec
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-x86_64.rpm
+
+## 0.41.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.2%20-%20Build%20240921llnho65ov-x64.dmg
+sha256:8cf1a0f949e5beac6f3cc0bc12e17db9a6054b815d5a7423c4945e2aada6d8bb
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.2%20-%20Build%20240921llnho65ov-arm64.dmg
+sha256:69be46a599376b6a2ab1e37d2e1fd33cd99a1985b39de11874a72cd2292b36e5
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-x86_64.AppImage
+sha256:cc134d2a94b344a0b447c92c707c8235a33303f7337182ab00cf6f1efdad1ec0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-x86_64.rpm
+
+## 0.41.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.1%20-%20Build%202409189xe3envg5-x64.dmg
+sha256:9c0b3627951411c063c8cc9914872da8b186aac7f2713a12407dd1aab621b279
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.1%20-%20Build%202409189xe3envg5-arm64.dmg
+sha256:ab7114eea2516baecbad1ed0cb8996bf43e099197308a7e74b377a71e7c036b8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-x86_64.AppImage
+sha256:f73aa4b4e47950e30b90a2c3d6e27c78d4ae8d69e7c8a00df47f1e8eb81c7d55
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-x86_64.rpm
+
+## 0.40.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.4%20-%20Build%202409052yfcjagw2-x64.dmg
+sha256:da14c1391db875eec854f9b179730770c231d327054c842f12b8a248cfec16d2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.4%20-%20Build%202409052yfcjagw2-arm64.dmg
+sha256:ff95fe1679f74f003e61fba89d67b342f9a7430c2394361d3672c253a17f79a8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-x86_64.AppImage
+sha256:654444f14a0b3f0f90a357b8c6ec1781cf894b01ab81bffa9df2065cc69c9928
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-x86_64.rpm
+
+## 0.40.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.3%20-%20Build%20240829epqamqp7h-x64.dmg
+sha256:d77fcee00625091e96f721f179d6828f3c1df4c1132b0bac7cfabbb1dc1b26bb
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.3%20-%20Build%20240829epqamqp7h-arm64.dmg
+sha256:9c01f0820c1111ec6e73b85cb1f5da61b31eea5668a327afb949f6cefc4193ac
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-x86_64.AppImage
+sha256:a85f6fa9fbc64460c9e1d671633bd115d20ac6dea27a2417ba93e23b3905e2eb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-x86_64.rpm
+
+## 0.40.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.2%20-%20Build%20240828c021k3aib-x64.dmg
+sha256:dab8d9bfeb3ddf4253e2900c608f61d5e2e540f44658caca640aa30d26f801b7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.2%20-%20Build%20240828c021k3aib-arm64.dmg
+sha256:07006b437ed3f9fae162e3fc8b1b9e02cb8fd05b73a431ebe60aa77497eb41be
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-x86_64.AppImage
+sha256:7123e94707edd9482c9d55a6a56d76ce5ddfa4332fd76738eddda7bed668fdb9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-x86_64.rpm
+
+## 0.40.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.1%20-%20Build%202408245thnycuzj-x64.dmg
+sha256:23d4bdc47c179e47727441d97d15f3d6a5c75013527e160f9dae93fd6c50f63d
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.1%20-%20Build%202408245thnycuzj-arm64.dmg
+sha256:97db61a71b5b92478a05113467b790b819c51267187b47789feea4b462459026
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-x86_64.AppImage
+sha256:4cf089c6b5c57dab4a0efe57ac4f27a8614813f28a8b569467fb94b487888317
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-x86_64.rpm
+
+## 0.40.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.0%20-%20Build%2024082202sreugb2-x64.dmg
+sha256:de944c1c2c106ba4978f58754e6af07710fc0ede5d7e501b2e7d12511933ae95
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.0%20-%20Build%2024082202sreugb2-arm64.dmg
+sha256:656405a3f2647ed5917a10840d913c032abb057fe2c562ef63b717498ce77663
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-x86_64.AppImage
+sha256:ed506ef9880659848c64acc1735aaa4fc8cfb3901b34f8914fa1e0ef843dfc3c
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-x86_64.rpm
+
+## 0.39.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.6%20-%20Build%20240819ih4ta2fye-x64.dmg
+sha256:27acfff43894c82502cf7efa30154225cf34a67c33de318759eb99a66689b35b
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.6%20-%20Build%20240819ih4ta2fye-arm64.dmg
+sha256:af7ee0f9335fe5083315572b6f5318f1871aeea176f6c18fe089781b0268d63c
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-x86_64.AppImage
+sha256:86e653cc8645018b4644c857182fb5b1dd25dace7dd7742458cf908c2b6c125d
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-x86_64.rpm
+
+## 0.39.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.5%20-%20Build%20240814y9rhzmu7h-x64.dmg
+sha256:69f8c722b36309600ff4af44ebfb7e7206529eb4dc2b751b12dc6e2d0de57701
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.5%20-%20Build%20240814y9rhzmu7h-arm64.dmg
+sha256:21641171016bc4b6f5e083f652da67192a4adda996ce166e9fb4da06ee314da9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-x86_64.AppImage
+sha256:dd324b7eb05df93c8556aa26992aacf2770da43147679bfc4862f86fad906144
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-x86_64.rpm
+
+## 0.39.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.4%20-%20Build%20240810elmeg3seq-x64.dmg
+sha256:91753a37245a8a39e292a487f05319af1a9821f5590df92a80d0fa86fcc2d3e1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.4%20-%20Build%20240810elmeg3seq-arm64.dmg
+sha256:48ca18fe0b3140d44aa3d3a2188d77c539c3ea19ce987115e667b016881ddb6b
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-x86_64.AppImage
+sha256:0dc735fef1868c0b5eaf3c94d5b7a05953ce7026dcca46e3f464b6c993aa0a6a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-x86_64.rpm
+
+## 0.39.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.3%20-%20Build%202408092hoyaxt9m-x64.dmg
+sha256:24d4c5ab68195b4e394d57fa4ac94c5b84c05ecf5d7a40308ba94991276ee3db
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.3%20-%20Build%202408092hoyaxt9m-arm64.dmg
+sha256:646cd123180daac77838c92e010e4ec47b86d41b5f429412730392b662d590b0
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-x86_64.AppImage
+sha256:de8f437ed43c48cc485e79095a0394d03bf669c876ede960ecbcde3591953cf9
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-x86_64.rpm
+
+## 0.39.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.2%20-%20Build%20240808phaxh4b5r-x64.dmg
+sha256:db8a1a68a4eb0c68f99c363448f4291b4bde416d2324685d57c4d2dddf85b06d
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.2%20-%20Build%20240808phaxh4b5r-arm64.dmg
+sha256:a7e2000555be0f307ecc62e9ab26788d08abd3a93218d38609ddd7385db74e0a
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-x86_64.AppImage
+sha256:66e0873afceeee174a02cd9deeb15ef88bb0c03d3cf93ea5f5b13958fc477824
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-x86_64.rpm
+
+## 0.39.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.1%20-%20Build%20240807g919tr4ly-x64.dmg
+sha256:9ea8857ff1773b389665c0123d1c6a07a594f5c9095758c92124df758fd3e332
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.1%20-%20Build%20240807g919tr4ly-arm64.dmg
+sha256:000fda0ec9d617858543efd79aa29b56e3d74bcbc4f55cae7983c1697f52fc15
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-x86_64.AppImage
+sha256:9d155e65faf8e40df529260f22047df7c4d58d91cc26f793d57957517a795936
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-x86_64.rpm
+
+## 0.39.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.0%20-%20Build%20240802cdixtv9a6-x64.dmg
+sha256:15d53f2a92006a11154bc87eb8d23bdd3b2913f8a195d81c1d1802a3e26429eb
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.0%20-%20Build%20240802cdixtv9a6-arm64.dmg
+sha256:91ee8cfb28ea84ba5c6611434834ae1d837dbccfa2cfab8a2bf3681eb6c41c71
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-x86_64.AppImage
+sha256:ed6d2dba62e758be76e7386e12fcd8e5d6c9fa385d658eef35cb73a65cf670ff
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-x86_64.rpm
+
+## 0.38.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.1%20-%20Build%20240725f0ti25os7-x64.dmg
+sha256:85fa424f8a9c3a58a12d27c6cbfc399335f5343315d9c5b9f4e969d631dd9476
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.1%20-%20Build%20240725f0ti25os7-arm64.dmg
+sha256:42c4d776ff98d29af9aedbb1d9ca02d23980bdebcf64a7fa93b5a016a922acf8
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-x86_64.AppImage
+sha256:cc85f9f89fddd87cd6ea93399909536afaa3146d75f724a3767c9f8154ac23b2
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-x86_64.rpm
+
+## 0.38.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.0%20-%20Build%20240723790oxe4a2-x64.dmg
+sha256:d98d004715a677f025d7ebb6e47b025a7450596e5761fbe3b70f1ba3db2cda32
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.0%20-%20Build%20240723790oxe4a2-arm64.dmg
+sha256:8f5a834df9f1be41894d483a46c159b84cbfa60aec9afb506042c16c5ce8dba1
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-x86_64.AppImage
+sha256:41ca61e94611f95b6569836a1c9a48184547bb5abc55b7ef9b906feacc1ffa93
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-x86_64.rpm
+
+## 0.37.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.37.1%20-%20Build%20240714yrr3gmv3k-x64.dmg
+sha256:8f6bf655547d1a86d28b6bafdbbe62d59abf7e9bbba3a5493142246056b7df24
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.37.1%20-%20Build%20240714yrr3gmv3k-arm64.dmg
+sha256:b324a98293555bffe092d6917140d16446f1a8a202610a42a4e432c1bf804c42
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-x86_64.AppImage
+sha256:185c89c0f4c84c7a9e593e6c2120547c26c9351d27c4227593fdfca3e9a6fc5e
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-x86_64.rpm
+
+## 0.36.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.2%20-%20Build%202407077n6pzboby-x64.dmg
+sha256:85f03e57ce372aea97e1ece0acec1a633421143ea56a3077795a2a91b29f98f6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.2%20-%20Build%202407077n6pzboby-arm64.dmg
+sha256:30f5b77c0c6e8d85cc5466e7cf805a5f81b5d937a2c1ae03ef6e290f150adebf
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-x86_64.AppImage
+sha256:e165b7fdcd795a67f83f95daacd2018e3c4fc79e62c632aa83cb0b524ab8def6
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-x86_64.rpm
+
+## 0.36.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.1%20-%20Build%20240706uekt2eaft-x64.dmg
+sha256:f5be1752c9923a596959d7f1b61373e12ae309b0e1f8bd12f15e7564681564b0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.1%20-%20Build%20240706uekt2eaft-arm64.dmg
+sha256:ba7d5a1e88ba8c674451246d52072d03f8514480decaafdd9d2f38068d0716a3
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-x86_64.AppImage
+sha256:9619e6854a069a39c8da07262db456a725cb77ffdd293c6eecd4d88f8d0275e5
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-x86_64.rpm
+
+## 0.36.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.0%20-%20Build%20240703xqkjv5aqa-x64.dmg
+sha256:1b2afd92e55168a78826c348b3ab256f78987e49334a0c6bb1d24d53e6931d43
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.0%20-%20Build%20240703xqkjv5aqa-arm64.dmg
+sha256:03e7ffd33efb19493b2f0c0df6de1c7925aa51e05f98c483475cfb4fd2cf6f40
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-x86_64.AppImage
+sha256:c37ddd5dba752bb738501fd1309620af5cfc83cf86681371629841dae1c4ac25
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-amd64.deb
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-x86_64.rpm
+sha256:下载失败 - 404 Client Error: Not Found for url: https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-x86_64.rpm
 
