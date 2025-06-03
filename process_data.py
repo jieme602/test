@@ -7,7 +7,7 @@ import requests
 from urllib.parse import unquote
 from pathlib import Path
 
-# 清空或创建new.txt文件
+# 清空或创建 new.txt 文件
 with open('new.txt', 'w', encoding='utf-8') as f:
     pass
 
@@ -15,7 +15,7 @@ with open('new.txt', 'w', encoding='utf-8') as f:
 tmp_dir = Path('./tmp_downloads')
 tmp_dir.mkdir(exist_ok=True)
 
-# 读取data.txt文件
+# 读取 data.txt 文件
 with open('data.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
@@ -32,23 +32,23 @@ for block in version_blocks:
 
     # 提取版本号
     version = lines[0].replace('##', '').strip()
-    print(f"处理版本: {version}")
+    print(f"处理版本：{version}")
 
-    # 提取URL
+    # 提取 URL
     urls = [line.strip() for line in lines[1:] if line.strip().startswith('http')]
     if not urls:
-        print(f"警告: 版本 {version} 没有找到任何URL")
+        print(f"警告：版本 {version} 没有找到任何 URL")
         continue
 
-    # 写入版本号到new.txt
+    # 写入版本号到 new.txt
     with open('new.txt', 'a', encoding='utf-8') as f:
         f.write(f"## {version}\n")
 
-    # 处理每个URL
+    # 处理每个 URL
     for url in urls:
-        # 从URL中提取文件名
+        # 从 URL 中提取文件名
         filename = unquote(os.path.basename(url))
-        print(f"下载: {filename}")
+        print(f"下载：{filename}")
 
         file_path = tmp_dir / filename
 
@@ -68,27 +68,27 @@ for block in version_blocks:
 
             # 检查文件大小是否太小，只在终端显示警告
             if file_size_mb < 1:
-                print(f"警告: 文件 {filename} 大小只有 {file_size_mb} MB，可能不是安装程序")
+                print(f"警告：文件 {filename} 大小只有 {file_size_mb} MB，可能不是安装程序")
             else:
-                print(f"文件大小: {file_size_mb} MB")
+                print(f"文件大小：{file_size_mb} MB")
 
-            # 计算SHA256校验和
-            sha256 = hashlib.sha256()
+            # 计算 SHA512 校验和
+            sha512 = hashlib.sha512()
             with open(file_path, 'rb') as f:
                 for chunk in iter(lambda: f.read(4096), b""):
-                    sha256.update(chunk)
+                    sha512.update(chunk)
 
-            # 写入结果到new.txt（不包含文件大小和警告信息）
+            # 写入结果到 new.txt（不包含文件大小和警告信息）
             with open('new.txt', 'a', encoding='utf-8') as f:
                 f.write(f"{url}\n")
-                f.write(f"sha256:{sha256.hexdigest()}\n")
+                f.write(f"sha512:{sha512.hexdigest()}\n")
 
         except Exception as e:
             # 下载失败
-            print(f"下载失败: {str(e)}")
+            print(f"下载失败：{str(e)}")
             with open('new.txt', 'a', encoding='utf-8') as f:
                 f.write(f"{url}\n")
-                f.write(f"sha256:下载失败 - {str(e)}\n")
+                f.write(f"sha512:下载失败 - {str(e)}\n")
 
         # 删除下载的文件以节省空间
         if file_path.exists():
@@ -105,4 +105,4 @@ if tmp_dir.exists():
     except OSError:
         pass
 
-print("处理完成，结果已保存到new.txt")
+print("处理完成，结果已保存到 new.txt")
