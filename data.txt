@@ -1,99 +1,413 @@
+## 0.45.14
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.14%20-%20Build%20250219jnihavxsz-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.14%20-%20Build%20250219jnihavxsz-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.14-build-250219jnihavxsz-x86_64.rpm
 
+## 0.45.12
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.12%20-%20Build%202502180s4ios0dk-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.12%20-%20Build%202502180s4ios0dk-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.12-build-2502180s4ios0dk-x86_64.rpm
 
-## 0.46.11
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.28-aarch64.AppImage
+## 0.45.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.11%20-%20Build%20250207y6nbaw5qc-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.11%20-%20Build%20250207y6nbaw5qc-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.11-build-250207y6nbaw5qc-x86_64.rpm
 
-## 0.46.10
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/7b3e0d45d4f952938dbd8e1e29c1b17003198481/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.28-aarch64.AppImage
+## 0.45.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.10%20-%20Build%20250205buadkzpea-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.10%20-%20Build%20250205buadkzpea-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.10-build-250205buadkzpea-x86_64.rpm
 
-## 0.46.9
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/3395357a4ee2975d5d03595e7607ee84e3db0f2c/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.9-3395357a4ee2975d5d03595e7607ee84e3db0f2c.deb.glibc2.28-aarch64.AppImage
+## 0.45.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.9%20-%20Build%20250202tgstl42dt-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.9%20-%20Build%20250202tgstl42dt-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.9-build-250202tgstl42dt-x86_64.rpm
 
-## 0.46.8
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/be4f0962469499f009005e66867c8402202ff0b7/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.8-be4f0962469499f009005e66867c8402202ff0b7.deb.glibc2.28-aarch64.AppImage
+## 0.45.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.8%20-%20Build%20250201b44xw1x2k-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.8%20-%20Build%20250201b44xw1x2k-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.8-build-250201b44xw1x2k-x86_64.rpm
 
-## 0.46.7
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/3611c5390c448b242ab97e328493bb8ef7241e61/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.7-3611c5390c448b242ab97e328493bb8ef7241e61.deb.glibc2.28-aarch64.AppImage
+## 0.45.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.7%20-%20Build%20250130nr6eorv84-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.7%20-%20Build%20250130nr6eorv84-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.7-build-250130nr6eorv84-x86_64.rpm
 
-## 0.46.6
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/5ac4b6282478aa0f4d1bfc032412616523788843/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.6-5ac4b6282478aa0f4d1bfc032412616523788843.deb.glibc2.28-aarch64.AppImage
+## 0.45.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.6%20-%20Build%2025013021lv9say3-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.6%20-%20Build%2025013021lv9say3-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.6-build-25013021lv9say3-x86_64.rpm
 
-## 0.46.5
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/9fa6e431b47f723d1bac24802102dd2fd8ea72b0/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.5-9fa6e431b47f723d1bac24802102dd2fd8ea72b0.deb.glibc2.28-aarch64.AppImage
+## 0.45.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.5%20-%20Build%20250128loaeyulq8-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.5%20-%20Build%20250128loaeyulq8-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.5-build-250128loaeyulq8-x86_64.rpm
 
-## 0.46.4
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/db71624816f6d52f6e54f47c37cdc7df23e22623/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.4-db71624816f6d52f6e54f47c37cdc7df23e22623.deb.glibc2.28-aarch64.AppImage
+## 0.45.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.4%20-%20Build%20250126vgr3vztvj-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.4%20-%20Build%20250126vgr3vztvj-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.4-build-250126vgr3vztvj-x86_64.rpm
 
-## 0.46.3
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/fce3511bab261b4c986797f3e1e40e7621bbd012/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.3-fce3511bab261b4c986797f3e1e40e7621bbd012.deb.glibc2.28-aarch64.AppImage
+## 0.45.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.3%20-%20Build%20250124b0rcj0qql-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.3%20-%20Build%20250124b0rcj0qql-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.3-build-250124b0rcj0qql-x86_64.rpm
 
-## 0.46.2
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/84b9c6d907219bb8c2874f299540eb6a079187ab/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.2-84b9c6d907219bb8c2874f299540eb6a079187ab.deb.glibc2.28-aarch64.AppImage
+## 0.45.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.2%20-%20Build%20250123mhituoa6o-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.2%20-%20Build%20250123mhituoa6o-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.2-build-250123mhituoa6o-x86_64.rpm
 
-## 0.46.1
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/69ce6c261e430e5be69213f1e721e50142477715/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.1-69ce6c261e430e5be69213f1e721e50142477715.deb.glibc2.28-aarch64.AppImage
+## 0.45.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.1%20-%20Build%202501213ljml5byg-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.1%20-%20Build%202501213ljml5byg-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.1-build-2501213ljml5byg-x86_64.rpm
 
-## 0.46.0
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/aff57e1d9a74ed627fb5bd393e347079514436a7/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.46.0-aff57e1d9a74ed627fb5bd393e347079514436a7.deb.glibc2.28-aarch64.AppImage
+## 0.45.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.0%20-%20Build%20250120dh9ezx9pg-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.45.0%20-%20Build%20250120dh9ezx9pg-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.45.0-build-250120dh9ezx9pg-x86_64.rpm
 
-## 0.45.17
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/7c00f62dd81412c8defe2b64b4d32d06e0a7e727/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.17-7c00f62dd81412c8defe2b64b4d32d06e0a7e727.deb.glibc2.28-aarch64.AppImage
+## 0.44.11
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.11%20-%20Build%20250103fqxdt5u9z-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.11-build-250103fqxdt5u9z-x86_64.rpm
 
-## 0.45.15
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/universal/Cursor-darwin-universal.dmg
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/x64/Cursor-darwin-x64.dmg
-https://downloads.cursor.com/production/73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1/darwin/arm64/Cursor-darwin-arm64.dmg
-https://downloads.cursor.com/production/client/linux/x64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.25-x86_64.AppImage
-https://downloads.cursor.com/production/client/linux/arm64/appimage/Cursor-0.45.15-73dd83bb6f8e3a3704ad8078a8e455ac6d4260d1.deb.glibc2.28-aarch64.AppImage
+## 0.44.10
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.10%20-%20Build%20250102ys80vtnud-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.10%20-%20Build%20250102ys80vtnud-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.10-build-250102ys80vtnud-x86_64.rpm
+
+## 0.44.9
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.9%20-%20Build%202412268nc6pfzgo-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.9%20-%20Build%202412268nc6pfzgo-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.9-build-2412268nc6pfzgo-x86_64.rpm
+
+## 0.44.8
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.8%20-%20Build%20241222ooktny8mh-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.8%20-%20Build%20241222ooktny8mh-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.8-build-241222ooktny8mh-x86_64.rpm
+
+## 0.44.7
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.7%20-%20Build%202412219nhracv01-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.7%20-%20Build%202412219nhracv01-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.7-build-2412219nhracv01-x86_64.rpm
+
+## 0.44.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.6%20-%20Build%202412214pmryneua-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.6%20-%20Build%202412214pmryneua-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.6-build-2412214pmryneua-x86_64.rpm
+
+## 0.44.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.5%20-%20Build%20241220s3ux0e1tv-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.5%20-%20Build%20241220s3ux0e1tv-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.5-build-241220s3ux0e1tv-x86_64.rpm
+
+## 0.44.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.4%20-%20Build%20241219117fcvexy-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.4%20-%20Build%20241219117fcvexy-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.4-build-241219117fcvexy-x86_64.rpm
+
+## 0.44.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.3%20-%20Build%20241218sybfbogmq-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.3%20-%20Build%20241218sybfbogmq-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.3-build-241218sybfbogmq-x86_64.rpm
+
+## 0.44.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.2%20-%20Build%20241218ntls52u8v-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.2%20-%20Build%20241218ntls52u8v-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.2-build-241218ntls52u8v-x86_64.rpm
+
+## 0.44.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.1%20-%20Build%202412187f9v0nffu-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.1-build-2412187f9v0nffu-x86_64.rpm
+
+## 0.44.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.0%20-%20Build%202412187f9v0nffu-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.44.0%20-%20Build%202412187f9v0nffu-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.44.0-build-2412187f9v0nffu-x86_64.rpm
+
+## 0.43.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.6%20-%20Build%20241206z7j6me2e2-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.6%20-%20Build%20241206z7j6me2e2-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.rpm
+
+## 0.43.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.5%20-%20Build%20241127pdg4cnbu2-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.5%20-%20Build%20241127pdg4cnbu2-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.5-build-241127pdg4cnbu2-x86_64.rpm
+
+## 0.43.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.4%20-%20Build%20241126w13goyvrs-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.4%20-%20Build%20241126w13goyvrs-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.4-build-241126w13goyvrs-x86_64.rpm
+
+## 0.43.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.3%20-%20Build%202411246yqzx1jmm-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.3%20-%20Build%202411246yqzx1jmm-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.3-build-2411246yqzx1jmm-x86_64.rpm
+
+## 0.43.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.1%20-%20Build%20241124gsiwb66nc-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.1%20-%20Build%20241124gsiwb66nc-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.1-build-241124gsiwb66nc-x86_64.rpm
+
+## 0.43.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.0%20-%20Build%2024112423a8e6ct7-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.43.0%20-%20Build%2024112423a8e6ct7-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.0-build-24112423a8e6ct7-x86_64.rpm
+
+## 0.42.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.5%20-%20Build%2024111460bf2loz1-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.5%20-%20Build%2024111460bf2loz1-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.5-build-24111460bf2loz1-x86_64.rpm
+
+## 0.42.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.4%20-%20Build%202410291z3bdg1dy-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.4%20-%20Build%202410291z3bdg1dy-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.4-build-2410291z3bdg1dy-x86_64.rpm
+
+## 0.42.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.3%20-%20Build%20241016kxu9umuir-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.3%20-%20Build%20241016kxu9umuir-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.3-build-241016kxu9umuir-x86_64.rpm
+
+## 0.42.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.2%20-%20Build%202410127mj66lvaq-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.2%20-%20Build%202410127mj66lvaq-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.2-build-2410127mj66lvaq-x86_64.rpm
+
+## 0.42.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.1%20-%20Build%20241011i66p9fuvm-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.1%20-%20Build%20241011i66p9fuvm-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.1-build-241011i66p9fuvm-x86_64.rpm
+
+## 0.42.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.0%20-%20Build%20241009fij7nohn5-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.42.0%20-%20Build%20241009fij7nohn5-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.42.0-build-241009fij7nohn5-x86_64.rpm
+
+## 0.41.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.3%20-%20Build%20240925fkhcqg263-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.3%20-%20Build%20240925fkhcqg263-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.3-build-240925fkhcqg263-x86_64.rpm
+
+## 0.41.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.2%20-%20Build%20240921llnho65ov-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.2%20-%20Build%20240921llnho65ov-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.2-build-240921llnho65ov-x86_64.rpm
+
+## 0.41.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.1%20-%20Build%202409189xe3envg5-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.41.1%20-%20Build%202409189xe3envg5-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.41.1-build-2409189xe3envg5-x86_64.rpm
+
+## 0.40.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.4%20-%20Build%202409052yfcjagw2-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.4%20-%20Build%202409052yfcjagw2-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.4-build-2409052yfcjagw2-x86_64.rpm
+
+## 0.40.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.3%20-%20Build%20240829epqamqp7h-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.3%20-%20Build%20240829epqamqp7h-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.3-build-240829epqamqp7h-x86_64.rpm
+
+## 0.40.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.2%20-%20Build%20240828c021k3aib-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.2%20-%20Build%20240828c021k3aib-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.2-build-240828c021k3aib-x86_64.rpm
+
+## 0.40.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.1%20-%20Build%202408245thnycuzj-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.1%20-%20Build%202408245thnycuzj-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.1-build-2408245thnycuzj-x86_64.rpm
+
+## 0.40.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.0%20-%20Build%2024082202sreugb2-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.40.0%20-%20Build%2024082202sreugb2-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.40.0-build-24082202sreugb2-x86_64.rpm
+
+## 0.39.6
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.6%20-%20Build%20240819ih4ta2fye-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.6%20-%20Build%20240819ih4ta2fye-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.6-build-240819ih4ta2fye-x86_64.rpm
+
+## 0.39.5
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.5%20-%20Build%20240814y9rhzmu7h-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.5%20-%20Build%20240814y9rhzmu7h-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.5-build-240814y9rhzmu7h-x86_64.rpm
+
+## 0.39.4
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.4%20-%20Build%20240810elmeg3seq-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.4%20-%20Build%20240810elmeg3seq-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.4-build-240810elmeg3seq-x86_64.rpm
+
+## 0.39.3
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.3%20-%20Build%202408092hoyaxt9m-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.3%20-%20Build%202408092hoyaxt9m-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.3-build-2408092hoyaxt9m-x86_64.rpm
+
+## 0.39.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.2%20-%20Build%20240808phaxh4b5r-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.2%20-%20Build%20240808phaxh4b5r-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.2-build-240808phaxh4b5r-x86_64.rpm
+
+## 0.39.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.1%20-%20Build%20240807g919tr4ly-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.1%20-%20Build%20240807g919tr4ly-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.1-build-240807g919tr4ly-x86_64.rpm
+
+## 0.39.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.0%20-%20Build%20240802cdixtv9a6-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.39.0%20-%20Build%20240802cdixtv9a6-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.39.0-build-240802cdixtv9a6-x86_64.rpm
+
+## 0.38.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.1%20-%20Build%20240725f0ti25os7-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.1%20-%20Build%20240725f0ti25os7-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.1-build-240725f0ti25os7-x86_64.rpm
+
+## 0.38.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.0%20-%20Build%20240723790oxe4a2-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.38.0%20-%20Build%20240723790oxe4a2-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.38.0-build-240723790oxe4a2-x86_64.rpm
+
+## 0.37.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.37.1%20-%20Build%20240714yrr3gmv3k-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.37.1%20-%20Build%20240714yrr3gmv3k-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.37.1-build-240714yrr3gmv3k-x86_64.rpm
+
+## 0.36.2
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.2%20-%20Build%202407077n6pzboby-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.2%20-%20Build%202407077n6pzboby-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.2-build-2407077n6pzboby-x86_64.rpm
+
+## 0.36.1
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.1%20-%20Build%20240706uekt2eaft-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.1%20-%20Build%20240706uekt2eaft-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.1-build-240706uekt2eaft-x86_64.rpm
+
+## 0.36.0
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.0%20-%20Build%20240703xqkjv5aqa-x64.dmg
+https://download.todesktop.com/230313mzl4w4u92/Cursor%200.36.0%20-%20Build%20240703xqkjv5aqa-arm64.dmg
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-x86_64.AppImage
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-amd64.deb
+https://download.todesktop.com/230313mzl4w4u92/cursor-0.36.0-build-240703xqkjv5aqa-x86_64.rpm
+
